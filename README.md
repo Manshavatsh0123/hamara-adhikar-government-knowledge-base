@@ -1,39 +1,47 @@
 # Hamara Adhikar Government Knowledge Base
 
-A structured, validated, and developer-friendly knowledge base of **Bihar Government Welfare Schemes**.
+A structured, validated, and production-ready knowledge base of **Bihar Government Welfare Schemes**.
 
-This repository standardizes government scheme information into a unified JSON format, making it easy to search, validate, import into databases, build REST APIs, and power AI-driven government assistance platforms.
+This repository standardizes government welfare scheme information into a unified JSON format and provides a complete data pipeline for validating, managing, and importing scheme data into PostgreSQL.
 
-This repository serves as the official knowledge base for the **Hamara Adhikar** platform.
+The repository serves as the official data source for the **Hamara Adhikar** platform, which aims to make government welfare schemes more accessible through AI-powered search, recommendation, and voice assistance.
 
 ---
 
 # Vision
 
-Government scheme information is often scattered across multiple websites, PDFs, and departments, making it difficult for citizens to discover schemes they are eligible for.
+Government welfare information is often scattered across multiple departments, PDFs, circulars, and official websites.
 
-The goal of this project is to transform that fragmented information into a standardized, machine-readable knowledge base that can power:
+Citizens frequently struggle to answer questions like:
+
+- Which schemes am I eligible for?
+- Where should I apply?
+- Which documents are required?
+- Is this scheme still active?
+
+The goal of this repository is to convert fragmented government information into a structured, machine-readable knowledge base that can power:
 
 - AI Assistants
 - Voice Search
-- Smart Scheme Recommendations
-- Government Service Applications
+- Smart Scheme Recommendation Systems
 - REST APIs
 - Mobile Applications
-- Analytics
+- Web Applications
+- Government Analytics Platforms
 
 ---
 
-# Project Goals
+# Repository Overview
 
-- Standardize Bihar Government scheme data
-- Maintain one consistent JSON structure
-- Eliminate inconsistent data formats
-- Enable AI-powered scheme recommendations
-- Simplify backend API development
-- Support PostgreSQL import
-- Provide validated data for frontend applications
-- Build a reusable government knowledge repository
+This repository is **not a backend application**.
+
+It is a centralized government knowledge repository responsible for:
+
+- Collecting verified government scheme information
+- Standardizing every scheme into a single JSON format
+- Validating data consistency
+- Importing data into PostgreSQL
+- Providing a reusable data source for backend APIs and AI systems
 
 ---
 
@@ -42,12 +50,47 @@ The goal of this project is to transform that fragmented information into a stan
 Current Status
 
 - State: Bihar
-- Total Government Schemes: 30
-- Validation Status: 30 / 30 Passed
-- Schema Version: 1.0.0
-- Format: JSON
-- Validation Library: Zod
+- Government Schemes: 30
+- JSON Validation: 30 / 30 Passed
+- Database Import: 30 / 30 Imported
+- Database: PostgreSQL
 - Runtime: Node.js
+- Validation Library: Zod
+- Schema Version: 1.0.0
+
+---
+
+# Architecture
+
+```
+Official Government Websites
+                │
+                ▼
+     Manual Data Collection
+                │
+                ▼
+     Standardized JSON Files
+                │
+                ▼
+        Zod Validation
+                │
+                ▼
+      Import Pipeline
+                │
+                ▼
+       PostgreSQL Database
+                │
+                ▼
+       Express REST APIs
+                │
+                ▼
+      AI Recommendation Engine
+                │
+                ▼
+     React Frontend Application
+```
+
+This repository is responsible only for everything above PostgreSQL.
 
 ---
 
@@ -56,55 +99,93 @@ Current Status
 - Standardized JSON structure
 - One JSON file per government scheme
 - Schema validation using Zod
-- Automatic validation script
+- Automated validation pipeline
+- PostgreSQL database schema
+- Automated PostgreSQL import pipeline
 - Consistent metadata
-- Developer-friendly structure
-- Easily extendable
-- Ready for PostgreSQL import
+- Modular import utilities
 - AI-ready structured data
+- Developer-friendly architecture
 
 ---
 
-# Repository Structure
+# Project Structure
 
 ```
-hamara-adhikar-government-knowledge-base/
+hamara-adhikar-knowledge-base/
 
-│
 ├── README.md
 ├── LICENSE
 ├── package.json
 ├── package-lock.json
 │
-├── schemas/
+├── database/
+│   └── schema.sql
+│
+├── schema/
 │   └── scheme.schema.js
 │
 ├── schemes/
 │   ├── Bihar_Student_Credit_Card_Scheme.json
+│   ├── Bihar_Makhana_Vikas_Yojana.json
 │   ├── Bihar_Niji_Talabon_Ka_Jirnoddhar_Ki_Yojana.json
-│   ├── Bihar_Chief_Minister_Divyangjan_Empowerment_Scheme.json
 │   └── ...
 │
 ├── scripts/
+│   ├── db.js
 │   ├── validate.js
-│   ├── import.js (Upcoming)
-│   └── export.js (Upcoming)
-│
-└── docs/
-    ├── schema.md (Upcoming)
-    ├── roadmap.md (Upcoming)
-    └── contribution.md (Upcoming)
+│   ├── import.js
+│   ├── test-db.js
+│   │
+│   └── utils/
+│       ├── insertScheme.js
+│       ├── insertCategories.js
+│       ├── insertTags.js
+│       └── insertContent.js
 ```
 
 ---
 
 # Folder Explanation
 
+## database/
+
+Contains the PostgreSQL database schema.
+
+Responsible for creating all database tables required to store government scheme information.
+
+Current Tables
+
+- schemes
+- scheme_categories
+- scheme_tags
+- scheme_content
+
+---
+
+## schema/
+
+Contains the master Zod schema.
+
+Every government scheme must satisfy this schema before being imported into PostgreSQL.
+
+Validation ensures:
+
+- Required fields exist
+- Correct data types
+- Consistent object structure
+- No malformed JSON
+- Nested object validation
+
+---
+
 ## schemes/
 
-Contains all government welfare schemes.
+Contains the actual government knowledge base.
 
-Each scheme is stored as an independent JSON document following the same structure.
+Each scheme is stored as an independent JSON document.
+
+Every scheme follows exactly the same structure.
 
 Example
 
@@ -114,63 +195,55 @@ Bihar_Student_Credit_Card_Scheme.json
 
 ---
 
-## schemas/
-
-Contains the master Zod schema used to validate every scheme before it is committed.
-
-This ensures:
-
-- Required fields exist
-- Correct data types
-- Consistent structure
-- No malformed JSON
-
----
-
 ## scripts/
 
-Contains utility scripts used during development.
+Contains all automation scripts.
 
-Current:
+### validate.js
 
-```
-validate.js
-```
+Validates every JSON file using Zod.
 
-Upcoming:
+### db.js
 
-```
-import.js
-export.js
-```
+Creates the PostgreSQL connection.
+
+### test-db.js
+
+Tests PostgreSQL connectivity.
+
+### import.js
+
+Imports every validated JSON file into PostgreSQL.
 
 ---
 
-## docs/
+## scripts/utils/
 
-Project documentation.
+Contains reusable helper functions used by the import pipeline.
 
-Future documentation includes:
+Instead of writing one large import script, responsibilities are separated.
 
-- Schema documentation
-- Contribution guide
-- PostgreSQL structure
-- Roadmap
+Current utilities:
+
+- insertScheme.js
+- insertCategories.js
+- insertTags.js
+- insertContent.js
+
+Each utility performs one specific database operation.
 
 ---
 
 # Standard Scheme Structure
 
-Every government scheme follows the same structure.
+Every scheme follows the same structure.
 
 ```
 Scheme
 
-├── id
-├── scheme_code
 ├── scheme_name
-├── state
 ├── department
+├── state
 ├── categories
 ├── description
 ├── objectives
@@ -184,62 +257,36 @@ Scheme
 └── metadata
 ```
 
-This standardized structure allows every scheme to be processed identically.
+This guarantees consistency across every scheme.
 
 ---
 
-# Example Scheme
+# Validation Pipeline
 
-```json
-{
-  "id": 1,
-  "scheme_name": "Bihar Student Credit Card Scheme",
-  "state": "Bihar",
-  "department": "Education",
-  "categories": [
-    "Education",
-    "Financial Assistance"
-  ],
-  "description": "...",
-  "benefits": [],
-  "eligibility": [],
-  "documents_required": [],
-  "application_process": {},
-  "official_source": {},
-  "metadata": {}
-}
-```
-
----
-
-# Validation
-
-Every JSON file is validated before being added to the repository.
+Every JSON file is validated before being committed.
 
 Validation includes:
 
 - Required fields
-- Missing fields
-- Invalid JSON
 - Data types
-- Arrays
 - Nested objects
+- Arrays
+- Invalid JSON
+- Missing properties
 
-Powered by **Zod**.
-
-Run validation:
+Run validation
 
 ```bash
 node scripts/validate.js
 ```
 
-Example output
+Example Output
 
 ```
 Starting Scheme Validation...
 
 PASS : Bihar_Student_Credit_Card_Scheme.json
-PASS : Bihar_Mukhyamantri_Nijee_Nalkup_Yojana.json
+PASS : Bihar_Makhana_Vikas_Yojana.json
 PASS : Bihar_Niji_Talabon_Ka_Jirnoddhar_Ki_Yojana.json
 
 Validation Summary
@@ -253,15 +300,101 @@ All scheme files are valid.
 
 ---
 
-# Adding a New Scheme
+# PostgreSQL Database
 
-## Step 1
+Validated schemes are imported into PostgreSQL.
 
-Collect information from an official government source.
+Database Design
+
+```
+schemes
+    │
+    ├───────────────┐
+    │               │
+    ▼               ▼
+scheme_categories   scheme_tags
+        │
+        ▼
+scheme_content
+```
+
+This normalized structure minimizes duplication while keeping JSON-heavy content inside PostgreSQL JSONB columns.
 
 ---
 
-## Step 2
+# Import Pipeline
+
+After validation, every scheme is imported automatically.
+
+Pipeline
+
+```
+Read JSON
+
+↓
+
+Validate
+
+↓
+
+BEGIN Transaction
+
+↓
+
+Insert Scheme
+
+↓
+
+Insert Categories
+
+↓
+
+Insert Tags
+
+↓
+
+Insert Content
+
+↓
+
+COMMIT
+
+↓
+
+Next File
+```
+
+Transactions ensure that partially imported data is automatically rolled back if an error occurs.
+
+Run Import
+
+```bash
+node scripts/import.js
+```
+
+Example Output
+
+```
+Found 30 scheme files.
+
+Importing Bihar_Student_Credit_Card_Scheme.json
+
+✓ Bihar Student Credit Card Scheme imported
+
+...
+
+All Schemes Imported Successfully
+```
+
+---
+
+# Adding a New Scheme
+
+Step 1
+
+Collect scheme information from an official government source.
+
+Step 2
 
 Create a new JSON file inside
 
@@ -269,42 +402,40 @@ Create a new JSON file inside
 schemes/
 ```
 
----
+Step 3
 
-## Step 3
+Follow the standard schema.
 
-Follow the standard structure.
+Step 4
 
-Do **not** change property names.
-
----
-
-## Step 4
-
-Run validation.
+Run validation
 
 ```bash
 node scripts/validate.js
 ```
 
----
+Step 5
 
-## Step 5
+Import into PostgreSQL
 
-If validation passes
-
-Commit the changes.
+```bash
+node scripts/import.js
+```
 
 ---
 
 # Development Workflow
 
 ```
-Collect Government Scheme
+Official Government Sources
 
 ↓
 
-Convert into Standard JSON
+Manual Verification
+
+↓
+
+Standard JSON
 
 ↓
 
@@ -312,23 +443,15 @@ Validate using Zod
 
 ↓
 
-Fix Validation Errors
+Import into PostgreSQL
 
 ↓
 
-Commit
+Backend APIs
 
 ↓
 
-Import into PostgreSQL (Upcoming)
-
-↓
-
-REST API (Upcoming)
-
-↓
-
-AI Recommendation Engine (Upcoming)
+AI Recommendation Engine
 
 ↓
 
@@ -339,79 +462,86 @@ Frontend Integration
 
 # Why Standardization?
 
-Government schemes are published by different departments.
+Government departments publish information in different formats.
 
-Every department uses a different format.
-
-Some contain:
+Some schemes contain:
 
 - Objectives
 
-Others don't.
+Others contain:
 
-Some use
+- Benefits
+
+Others only publish PDFs.
+
+Some provide structured application processes.
+
+Some provide only notifications.
+
+This repository converts every scheme into one unified format.
 
 Benefits
 
-Others use
-
-Financial Assistance
-
-Others provide PDF notifications.
-
-This repository converts all of them into one unified structure.
-
-Benefits:
-
 - Easier Search
-- AI Ready
 - Consistent UI
 - Database Friendly
-- Easy Maintenance
+- AI Ready
 - API Ready
+- Easy Maintenance
 
 ---
 
 # Data Source
 
-All government scheme information is collected from publicly available official government portals and notifications.
+All information is collected manually from publicly available official government websites, portals, notifications, and departmental resources.
 
-Each scheme is manually reviewed and converted into the standard JSON format before being added to this repository.
+Every scheme is manually reviewed before being converted into the standardized JSON format.
 
-Whenever possible, every scheme retains links to its official source for verification.
+Official source links are preserved whenever available.
 
 ---
 
-# Current Roadmap
+# Tech Stack
+
+Current
+
+- Node.js
+- JavaScript
+- JSON
+- PostgreSQL
+- Zod
+
+Upcoming
+
+- Express.js
+- React
+- OpenAI API
+- Vector Search
+
+---
+
+# Roadmap
 
 ## Version 1.0
 
-- Standard JSON schema
-- Bihar Government Schemes
-- Validation using Zod
-- GitHub Repository
+- Standard JSON Schema
+- Bihar Government Knowledge Base
+- Zod Validation
+- PostgreSQL Schema
+- Database Import Pipeline
 
-Completed
+Status: ✅ Completed
 
 ---
 
 ## Version 1.1
 
-- PostgreSQL Import Script
-- Database Schema
-- Export Script
-
-In Progress
-
----
-
-## Version 1.2
-
-- Express REST API
+- Express Backend
 - Search API
 - Filter API
+- Recommendation API
 
-Planned
+Status: 🚧 Next Phase
 
 ---
 
@@ -419,52 +549,21 @@ Planned
 
 - AI Recommendation Engine
 - Natural Language Search
-- Voice Search Support
-- Eligibility Matching
-
-Planned
-
----
-
-# Tech Stack
-
-- Node.js
-- JavaScript
-- JSON
-- Zod
-
-Upcoming
-
-- PostgreSQL
-- Express.js
-- OpenAI API / LLM
-- React
-
----
-
-# Future Integrations
-
-This repository is designed to integrate with:
-
-- Hamara Adhikar Backend
-- PostgreSQL Database
-- AI Recommendation Engine
 - Voice Assistant
-- Web Application
-- Mobile Application
+- Eligibility Matching
+- Semantic Search
+
+Status: 📋 Planned
 
 ---
 
-# Contributing
+# Related Repositories
 
-Contributions are welcome.
+This repository is part of the **Hamara Adhikar** ecosystem.
 
-Before submitting a new scheme:
-
-- Use the standard JSON structure
-- Validate using Zod
-- Verify information from official government sources
-- Keep naming conventions consistent
+- hamara-adhikar-knowledge-base (Government Knowledge Repository)
+- hamara-adhikar-backend (REST APIs & Business Logic)
+- hamara-adhikar-frontend (React Web Application)
 
 ---
 
@@ -472,7 +571,7 @@ Before submitting a new scheme:
 
 This project is licensed under the MIT License.
 
-See the LICENSE file for more details.
+See the LICENSE file for details.
 
 ---
 
@@ -480,4 +579,4 @@ See the LICENSE file for more details.
 
 **Hamara Adhikar**
 
-Building an AI-powered platform to make government welfare schemes more accessible, understandable, and easier to discover for every citizen.
+Building an AI-powered platform that makes government welfare schemes easier to discover, understand, and access for every citizen.

@@ -1,0 +1,176 @@
+{
+  "id": 26,
+  "scheme_code": "",
+
+  "scheme_name": "Anya Pichhda Varg Kalyan Chhatravaas",
+
+  "state": "Bihar",
+
+  "department": "Backward Classes and Extremely Backward Classes Welfare Department",
+
+  "categories": [
+    "Education",
+    "Hostel",
+    "Student Welfare",
+    "Backward Classes",
+    "Financial Assistance"
+  ],
+
+  "description": "The Anya Pichhda Varg Kalyan Chhatravaas Scheme is implemented by the BC & EBC Welfare Department, Government of Bihar, to promote education among students belonging to the Backward Class (BC) and Extremely Backward Class (EBC) communities. The scheme provides hostel accommodation along with financial assistance, free food grains, and essential facilities to help students from economically weaker and rural backgrounds pursue their education.",
+
+  "objectives": [
+    "Reduce educational backwardness among BC and EBC students.",
+    "Provide hostel accommodation for eligible students.",
+    "Provide financial assistance and food support.",
+    "Improve access to education for economically weaker students."
+  ],
+
+  "benefits": [
+    {
+      "title": "Monthly Hostel Grant",
+      "description": "Financial assistance of ₹1,000 per month (₹12,000 annually) is provided to eligible students."
+    },
+    {
+      "title": "Free Food Grains",
+      "description": "Students receive 15 kg of food grains every month, including 9 kg of rice and 6 kg of wheat."
+    },
+    {
+      "title": "Free Hostel Facilities",
+      "description": "Students are provided with a cot, mattress, bedsheet, cooking utensils, and hostel accommodation."
+    },
+    {
+      "title": "Additional Facilities",
+      "description": "Library support, competitive examination preparation, CCTV, Wi-Fi, computer laboratory, television, water purifier, and sports equipment are provided subject to availability."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant must be a resident of Bihar."
+    },
+    {
+      "title": "Category",
+      "description": "The applicant must belong to the Backward Class (BC) or Extremely Backward Class (EBC)."
+    },
+    {
+      "title": "Age Limit",
+      "description": "The applicant should be between 11 and 40 years of age."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Offline",
+
+    "registration_steps": [],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Visit Institution",
+        "description": "Visit the Principal of the concerned college or the Registrar of the university during office hours."
+      },
+      {
+        "step": 2,
+        "title": "Collect Application Form",
+        "description": "Obtain the prescribed application form."
+      },
+      {
+        "step": 3,
+        "title": "Fill Application Form",
+        "description": "Complete all mandatory details and affix a passport-size photograph."
+      },
+      {
+        "step": 4,
+        "title": "Attach Documents",
+        "description": "Attach all required self-attested supporting documents."
+      },
+      {
+        "step": 5,
+        "title": "Submit Application",
+        "description": "Submit the completed application form within the prescribed admission period."
+      },
+      {
+        "step": 6,
+        "title": "Collect Acknowledgement",
+        "description": "Receive an acknowledgement or receipt for future reference."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Passport-size Photograph",
+      "mandatory": true,
+      "remarks": "Recent passport-size photograph."
+    },
+    {
+      "name": "Identity Proof",
+      "mandatory": true,
+      "remarks": "Valid identity proof."
+    },
+    {
+      "name": "Caste Certificate",
+      "mandatory": true,
+      "remarks": "Proof of BC/EBC category."
+    },
+    {
+      "name": "Bank Passbook or Bank Account Details",
+      "mandatory": true,
+      "remarks": "Required for financial assistance."
+    },
+    {
+      "name": "Other Supporting Documents",
+      "mandatory": false,
+      "remarks": "Any additional documents required by the concerned authority."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The scheme is available in all 38 districts of Bihar.",
+    "Food expenses are borne by the students, while food arrangements are managed under the supervision of the hostel superintendent.",
+    "Modern facilities such as CCTV, Wi-Fi, TV, computer laboratory, water purifier, and sports equipment are provided subject to fund availability.",
+    "Applications must be submitted within the prescribed admission period."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Students who are residents of Bihar and belong to the BC or EBC category."
+    },
+    {
+      "question": "What financial assistance is provided?",
+      "answer": "Eligible students receive ₹1,000 per month (₹12,000 annually) as hostel assistance."
+    },
+    {
+      "question": "Are food grains provided?",
+      "answer": "Yes. Students receive 15 kg of food grains every month, including rice and wheat."
+    },
+    {
+      "question": "Is hostel accommodation available?",
+      "answer": "Yes. Eligible students receive hostel accommodation along with basic facilities."
+    },
+    {
+      "question": "How can students apply?",
+      "answer": "Students need to submit the prescribed application form along with the required documents to the concerned educational institution."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

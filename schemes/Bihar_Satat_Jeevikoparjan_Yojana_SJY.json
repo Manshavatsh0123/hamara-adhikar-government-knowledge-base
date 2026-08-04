@@ -1,0 +1,191 @@
+{
+  "id": 10,
+  "scheme_code": "",
+
+  "scheme_name": "Satat Jeevikoparjan Yojana (SJY)",
+
+  "state": "Bihar",
+
+  "department": "Bihar Rural Livelihoods Promotion Society (JEEViKA)",
+
+  "categories": [
+    "Capacity Building",
+    "Livelihood Support",
+    "Rural Development",
+    "Skill Upgradation",
+    "Training"
+  ],
+
+  "description": "Satat Jeevikoparjan Yojana (SJY), launched by the Government of Bihar on 5 August 2018, aims to empower ultra-poor households by providing sustainable livelihood opportunities through the globally recognized Graduation Approach. Implemented by the Bihar Rural Livelihoods Promotion Society (JEEViKA), the scheme provides livelihood gap assistance, productive asset transfers, mentoring, skill development, insurance coverage, and social inclusion support to help beneficiaries achieve long-term self-reliance.",
+
+  "objectives": [
+    "Provide sustainable livelihood opportunities to ultra-poor households.",
+    "Reduce poverty through productive asset creation and financial support.",
+    "Develop entrepreneurial and livelihood skills through training and mentoring.",
+    "Improve household income and promote long-term self-reliance.",
+    "Facilitate access to insurance schemes and government welfare entitlements."
+  ],
+
+  "benefits": [
+    {
+      "title": "Livelihood Gap Assistance",
+      "description": "Financial assistance of ₹1,000 per month for the first seven months to support basic household needs."
+    },
+    {
+      "title": "Productive Asset Transfer",
+      "description": "Productive assets such as livestock, agriculture inputs, or micro-enterprises with an average value of ₹60,000, provided in 2–3 installments up to a maximum limit of ₹1,00,000."
+    },
+    {
+      "title": "Insurance Coverage",
+      "description": "Insurance premium coverage under Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) and Pradhan Mantri Suraksha Bima Yojana (PMJSBY)."
+    },
+    {
+      "title": "Mentoring",
+      "description": "Personalized mentoring and guidance for 24 months by Master Resource Persons (MRPs)."
+    },
+    {
+      "title": "Skill Development",
+      "description": "Capacity-building programmes, entrepreneurial training, and life-skills coaching."
+    },
+    {
+      "title": "Community Support",
+      "description": "Support through Village Organizations (VOs) to encourage community participation and social empowerment."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant must be a resident of Bihar."
+    },
+    {
+      "title": "Ultra-Poor Household",
+      "description": "The applicant must belong to an ultra-poor household identified through the participatory selection process."
+    },
+    {
+      "title": "Socially or Economically Vulnerable",
+      "description": "The applicant should belong to socially or economically vulnerable groups such as Scheduled Castes (SC) or Scheduled Tribes (ST)."
+    },
+    {
+      "title": "Livelihood Status",
+      "description": "The applicant should not have significant alternative livelihood sources."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Online",
+
+    "registration_steps": [
+      {
+        "step": 1,
+        "title": "Identification of Beneficiaries",
+        "description": "Eligible ultra-poor households are identified through a participatory process conducted by Village Organizations (VOs)."
+      },
+      {
+        "step": 2,
+        "title": "Submit Documents",
+        "description": "Provide the required documents to JEEViKA representatives."
+      },
+      {
+        "step": 3,
+        "title": "Verification",
+        "description": "Program authorities verify the submitted documents and eligibility."
+      },
+      {
+        "step": 4,
+        "title": "Enrollment",
+        "description": "Eligible applicants are enrolled in the programme."
+      }
+    ],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Assignment of Mentor",
+        "description": "Each beneficiary is assigned a Master Resource Person (MRP) for continuous guidance."
+      },
+      {
+        "step": 2,
+        "title": "Receive Benefits",
+        "description": "Approved beneficiaries receive financial assistance, productive assets, training, insurance support, and mentoring as per the scheme guidelines."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Identity Proof",
+      "mandatory": true,
+      "remarks": "Aadhaar Card or any equivalent identity proof."
+    },
+    {
+      "name": "Residence Proof",
+      "mandatory": true,
+      "remarks": "Proof of residence in Bihar."
+    },
+    {
+      "name": "Social and Economic Status Certificate",
+      "mandatory": true,
+      "remarks": "Document supporting the applicant's social and economic status."
+    },
+    {
+      "name": "Bank Account Details",
+      "mandatory": true,
+      "remarks": "Bank account details for benefit transfer."
+    },
+    {
+      "name": "Entitlement Documents",
+      "mandatory": false,
+      "remarks": "Relevant entitlement documents, if applicable."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The scheme follows the internationally recognized Graduation Approach for poverty alleviation.",
+    "Beneficiaries receive mentoring support for 24 months.",
+    "Village Organizations (VOs) play a key role in identifying eligible households.",
+    "Insurance coverage under PMJJBY and PMJSBY is included.",
+    "The programme primarily targets ultra-poor and socially vulnerable households."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who can apply for Satat Jeevikoparjan Yojana?",
+      "answer": "Residents of Bihar belonging to identified ultra-poor households who meet the eligibility criteria."
+    },
+    {
+      "question": "How much livelihood assistance is provided?",
+      "answer": "Eligible beneficiaries receive ₹1,000 per month for the first seven months."
+    },
+    {
+      "question": "What is the maximum value of productive assets provided?",
+      "answer": "Productive assets worth up to ₹1,00,000 may be provided, with an average value of around ₹60,000."
+    },
+    {
+      "question": "How long does mentoring continue?",
+      "answer": "Each beneficiary receives mentoring and guidance for 24 months."
+    },
+    {
+      "question": "Does the scheme provide insurance benefits?",
+      "answer": "Yes. Insurance premiums are covered under PMJJBY and PMJSBY for eligible beneficiaries."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

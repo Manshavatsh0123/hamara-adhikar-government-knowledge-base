@@ -1,0 +1,210 @@
+{
+  "id": 14,
+  "scheme_code": "",
+
+  "scheme_name": "Bhraman - Darshan Yojana",
+
+  "state": "Bihar",
+
+  "department": "Animal and Fisheries Resources Department",
+
+  "categories": [
+    "Fisheries",
+    "Fish Farmer",
+    "Training",
+    "Technology Adoption",
+    "Skill Development"
+  ],
+
+  "description": "Bhraman - Darshan Yojana is a scheme launched by the Animal and Fisheries Resources Department, Government of Bihar, to educate fish farmers about modern fisheries technologies through organized educational tours. Under the scheme, eligible fish farmers participate in a two-day exposure visit within Bihar to learn advanced fish farming techniques, improve productivity, and create better livelihood opportunities.",
+
+  "objectives": [
+    "Promote awareness of modern fisheries technologies.",
+    "Encourage adoption of improved fish farming practices.",
+    "Increase fish production and productivity.",
+    "Generate employment opportunities in the fisheries sector.",
+    "Improve the annual income of fish farmers."
+  ],
+
+  "benefits": [
+    {
+      "title": "Educational Exposure Visit",
+      "description": "Eligible fish farmers receive a two-day educational tour within Bihar to learn advanced fisheries practices."
+    },
+    {
+      "title": "Technology Awareness",
+      "description": "Participants gain knowledge of the latest fisheries technologies and management practices."
+    },
+    {
+      "title": "Improved Productivity",
+      "description": "The scheme helps farmers adopt modern techniques to increase fish production and productivity."
+    },
+    {
+      "title": "Employment Generation",
+      "description": "Promotes new employment opportunities through improved fisheries practices."
+    },
+    {
+      "title": "Income Enhancement",
+      "description": "Supports increased annual income for fish farmers through better production methods."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant must be a resident of Bihar."
+    },
+    {
+      "title": "Fish Farmer",
+      "description": "The applicant must be engaged in fish farming in private, leased, or government ponds or water bodies."
+    },
+    {
+      "title": "Committee Membership",
+      "description": "The applicant must be an active member of a Block Level Fishermen Cooperation Committee."
+    },
+    {
+      "title": "Training Requirement",
+      "description": "Progressive fish farmers who have successfully completed departmental fisheries training are eligible."
+    },
+    {
+      "title": "Interest in Fish Farming",
+      "description": "The applicant should intend to undertake fish farming and have adequate fishery resources."
+    },
+    {
+      "title": "One-Time Benefit",
+      "description": "A beneficiary can avail the benefit of this scheme only once."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Online",
+
+    "registration_steps": [
+      {
+        "step": 1,
+        "title": "Visit the Portal",
+        "description": "Visit the official fisheries scheme portal and click on the application link for the current financial year."
+      },
+      {
+        "step": 2,
+        "title": "Register",
+        "description": "Select 'Registration for Fisheries Schemes' and choose the Individual category."
+      },
+      {
+        "step": 3,
+        "title": "Enter Details",
+        "description": "Provide applicant details including category, caste, name, date of birth, address, and bank details."
+      },
+      {
+        "step": 4,
+        "title": "OTP Verification",
+        "description": "Enter the registered mobile number, verify the OTP, and receive the Registration Number and Password."
+      },
+      {
+        "step": 5,
+        "title": "Login",
+        "description": "Log in using the Registration Number and Password."
+      }
+    ],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Login to Portal",
+        "description": "Visit the official portal and log in using the registered credentials."
+      },
+      {
+        "step": 2,
+        "title": "Select Scheme",
+        "description": "Choose the 'Bhraman - Darshan Yojana' under the Marai Training Scheme section."
+      },
+      {
+        "step": 3,
+        "title": "Fill Application",
+        "description": "Provide personal details, permanent address, and experience details."
+      },
+      {
+        "step": 4,
+        "title": "Upload Documents",
+        "description": "Upload the required certificates, identity proof, educational documents, training certificates, and photograph."
+      },
+      {
+        "step": 5,
+        "title": "Submit Application",
+        "description": "Submit the application online. A receipt will be generated for future reference."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Passport-size Photograph",
+      "mandatory": true,
+      "remarks": "Recent passport-size photograph."
+    },
+    {
+      "name": "Aadhaar Card / Voter ID",
+      "mandatory": true,
+      "remarks": "Identity proof of the applicant."
+    },
+    {
+      "name": "Educational Certificate",
+      "mandatory": true,
+      "remarks": "Educational qualification certificate."
+    },
+    {
+      "name": "Pre-Training Certificate",
+      "mandatory": true,
+      "remarks": "Certificate of fisheries training completed under departmental schemes."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The scheme targets approximately 12,000 fish farmers.",
+    "The educational exposure visit is conducted for two days within Bihar.",
+    "Only active members of Block Level Fishermen Cooperation Committees are eligible.",
+    "The benefit under this scheme can be availed only once.",
+    "Preference is given to progressive fish farmers who have completed departmental training."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who can apply for Bhraman - Darshan Yojana?",
+      "answer": "Fish farmers who are residents of Bihar, members of Block Level Fishermen Cooperation Committees, and have completed departmental fisheries training."
+    },
+    {
+      "question": "What is the main benefit of the scheme?",
+      "answer": "Eligible fish farmers receive a two-day educational exposure visit to learn modern fisheries technologies."
+    },
+    {
+      "question": "Can a farmer avail this benefit multiple times?",
+      "answer": "No. The benefit can be availed only once."
+    },
+    {
+      "question": "Is the application process online?",
+      "answer": "Yes. Registration and application are completed online through the official fisheries portal."
+    },
+    {
+      "question": "Which documents are required?",
+      "answer": "Passport-size photograph, Aadhaar Card or Voter ID, Educational Certificate, and Pre-Training Certificate."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

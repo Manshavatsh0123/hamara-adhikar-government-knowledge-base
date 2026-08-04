@@ -1,0 +1,279 @@
+{
+  "id": 2,
+  "scheme_code": "",
+
+  "scheme_name": "Bihar Student Credit Card Scheme",
+
+  "state": "Bihar",
+
+  "department": "Department of Education",
+
+  "categories": [
+    "Education",
+    "Student Loan",
+    "Financial Assistance",
+    "Higher Education",
+    "Student Empowerment"
+  ],
+
+  "description": "The Bihar Student Credit Card Scheme is an initiative of the Department of Education, Government of Bihar, to provide financial assistance to students pursuing higher education. Under the scheme, eligible students can avail education loans of up to ₹4 lakh at concessional interest rates to cover tuition fees, books, laptops, and other educational expenses. The scheme aims to ensure that deserving students are not deprived of higher education due to financial constraints.",
+
+  "objectives": [
+    "Provide financial assistance to students pursuing higher education.",
+    "Ensure that deserving students are not deprived of education due to financial difficulties.",
+    "Support students enrolled in technical, professional, polytechnic, and general degree courses.",
+    "Promote access to higher education across Bihar."
+  ],
+
+  "benefits": [
+    {
+      "title": "Education Loan",
+      "description": "Eligible students can avail an education loan of up to ₹4,00,000."
+    },
+    {
+      "title": "Wide Course Coverage",
+      "description": "Loans are available for polytechnic, technical, professional, and general education courses."
+    },
+    {
+      "title": "Educational Expenses",
+      "description": "The loan can be used to pay tuition fees, purchase books, laptops, and other educational expenses."
+    },
+    {
+      "title": "Easy Repayment",
+      "description": "Loan repayment begins after completion of the course and once the student secures employment."
+    },
+    {
+      "title": "Concessional Interest Rate",
+      "description": "An interest rate of 1% is applicable for Divyang, transgender, and girl students."
+    },
+    {
+      "title": "Flexible Recovery",
+      "description": "The loan recovery process is flexible as the scheme is backed by the Government of Bihar."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant must be a permanent resident of Bihar."
+    },
+    {
+      "title": "Age",
+      "description": "The applicant should be at least 25 years of age."
+    },
+    {
+      "title": "Educational Qualification",
+      "description": "The applicant must have passed Class 12 or an equivalent examination."
+    },
+    {
+      "title": "Admission",
+      "description": "The applicant must have secured admission to an approved educational institution."
+    },
+    {
+      "title": "Course Completion",
+      "description": "The applicant should complete the enrolled course."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Online",
+
+    "registration_steps": [
+      {
+        "step": 1,
+        "title": "Visit the Portal",
+        "description": "Visit the Bihar Student Credit Card portal."
+      },
+      {
+        "step": 2,
+        "title": "Register",
+        "description": "Click on 'New Applicant Registration'."
+      },
+      {
+        "step": 3,
+        "title": "Fill Registration Details",
+        "description": "Enter your name, email ID, mobile number, Aadhaar number, verify OTP, and submit the registration form."
+      },
+      {
+        "step": 4,
+        "title": "Receive Login Credentials",
+        "description": "Receive the username and password via SMS and email after successful registration."
+      }
+    ],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Login",
+        "description": "Log in using the registered username and password."
+      },
+      {
+        "step": 2,
+        "title": "Fill Personal Information",
+        "description": "Complete the Personal Information page and submit it."
+      },
+      {
+        "step": 3,
+        "title": "Select Scheme",
+        "description": "Choose the 'BSCC' option and click 'Apply'."
+      },
+      {
+        "step": 4,
+        "title": "Complete Application",
+        "description": "Fill in the Bihar Student Credit Card application form and submit it."
+      },
+      {
+        "step": 5,
+        "title": "Receive Acknowledgement",
+        "description": "A confirmation message and acknowledgement number will be generated."
+      },
+      {
+        "step": 6,
+        "title": "Visit DRCC",
+        "description": "Attend the scheduled appointment at the District Registration and Counseling Center (DRCC) with self-attested documents for verification."
+      },
+      {
+        "step": 7,
+        "title": "Loan Sanction",
+        "description": "After successful verification and bank approval, collect the Student Credit Card and loan sanction letter from the DRCC."
+      },
+      {
+        "step": 8,
+        "title": "Complete Bank Formalities",
+        "description": "Visit the bank, complete documentation, and receive the loan disbursement."
+      },
+      {
+        "step": 9,
+        "title": "Track Application",
+        "description": "Applicants can track their application status through the official portal."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Filled Common Application Form",
+      "mandatory": true,
+      "remarks": ""
+    },
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Identity proof."
+    },
+    {
+      "name": "PAN Card",
+      "mandatory": true,
+      "remarks": ""
+    },
+    {
+      "name": "Class X Mark Sheet and Certificate",
+      "mandatory": true,
+      "remarks": ""
+    },
+    {
+      "name": "Class XII Mark Sheet and Certificate",
+      "mandatory": true,
+      "remarks": ""
+    },
+    {
+      "name": "Scholarship Letter",
+      "mandatory": false,
+      "remarks": "Required if applicable."
+    },
+    {
+      "name": "Approved Course Structure",
+      "mandatory": true,
+      "remarks": ""
+    },
+    {
+      "name": "Proof of Admission",
+      "mandatory": true,
+      "remarks": ""
+    },
+    {
+      "name": "Fee Schedule",
+      "mandatory": true,
+      "remarks": ""
+    },
+    {
+      "name": "Passport-size Photographs",
+      "mandatory": true,
+      "remarks": ""
+    },
+    {
+      "name": "Income Certificate",
+      "mandatory": true,
+      "remarks": "Previous year's income certificate."
+    },
+    {
+      "name": "Income Tax Returns",
+      "mandatory": false,
+      "remarks": "Previous two years' Income Tax Returns, if applicable."
+    },
+    {
+      "name": "Bank Statement",
+      "mandatory": true,
+      "remarks": "Previous six months' bank statement."
+    },
+    {
+      "name": "Proof of Residence",
+      "mandatory": true,
+      "remarks": "Passport, Driving Licence, Voter ID, or any valid residence proof."
+    },
+    {
+      "name": "Tax Receipt",
+      "mandatory": true,
+      "remarks": ""
+    }
+  ],
+
+  "official_source": {
+    "website": "https://www.7nishchay-yuvaupmission.bihar.gov.in/",
+    "apply_link": "https://www.7nishchay-yuvaupmission.bihar.gov.in/",
+    "status_link": "https://www.7nishchay-yuvaupmission.bihar.gov.in/addapplicationStatus",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The maximum loan amount available under the scheme is ₹4,00,000.",
+    "The scheme covers technical, professional, polytechnic, and general degree courses.",
+    "Loan repayment starts only after course completion and employment.",
+    "Applicants must visit the District Registration and Counseling Center (DRCC) for document verification.",
+    "The loan is sanctioned through participating banks after successful verification."
+  ],
+
+  "faqs": [
+    {
+      "question": "What is the maximum loan amount available?",
+      "answer": "Eligible students can avail an education loan of up to ₹4,00,000."
+    },
+    {
+      "question": "Who can apply for the scheme?",
+      "answer": "Permanent residents of Bihar who have passed Class 12 and secured admission to an approved institution can apply."
+    },
+    {
+      "question": "What is the interest rate for girl students?",
+      "answer": "Girl students, Divyang students, and transgender applicants are charged an interest rate of 1%."
+    },
+    {
+      "question": "When does loan repayment begin?",
+      "answer": "Repayment begins after the completion of the course and after the student secures employment."
+    },
+    {
+      "question": "Can applicants track their application status?",
+      "answer": "Yes, applicants can track their application status through the official Bihar Student Credit Card portal."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

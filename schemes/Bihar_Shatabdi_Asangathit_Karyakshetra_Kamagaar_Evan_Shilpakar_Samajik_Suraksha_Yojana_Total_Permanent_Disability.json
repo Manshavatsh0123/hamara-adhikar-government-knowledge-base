@@ -1,0 +1,184 @@
+{
+  "id": 5,
+  "scheme_code": "",
+
+  "scheme_name": "Bihar Shatabdi Asangathit Karyakshetra Kamagaar Evan Shilpakar Samajik Suraksha Yojana: Total Permanent Disability",
+
+  "state": "Bihar",
+
+  "department": "Labour Resources Department",
+
+  "categories": [
+    "Social Security",
+    "Unorganised Workers",
+    "Craftsmen",
+    "Disability Assistance",
+    "Financial Assistance"
+  ],
+
+  "description": "The Bihar Shatabdi Asangathit Karyakshetra Kamagaar Evan Shilpakar Samajik Suraksha Yojana is a social security scheme launched by the Labour Resources Department, Government of Bihar. Under the Total Permanent Disability component, financial assistance is provided to registered workers and artisans in the unorganised sector who suffer total permanent disability due to an accident.",
+
+  "objectives": [
+    "Provide social security to workers and artisans in the unorganised sector.",
+    "Offer financial assistance to beneficiaries suffering from total permanent disability.",
+    "Support the livelihood and welfare of disabled workers and their families.",
+    "Improve financial security for workers affected by workplace or accidental disabilities."
+  ],
+
+  "benefits": [
+    {
+      "title": "Financial Assistance",
+      "description": "A one-time financial assistance of ₹75,000 is provided to eligible beneficiaries suffering from total permanent disability."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant must be a resident of Bihar."
+    },
+    {
+      "title": "Occupation",
+      "description": "The applicant must be working as a worker or craftsman in the unorganised sector within Bihar."
+    },
+    {
+      "title": "Age",
+      "description": "The applicant must be between 18 and 65 years of age. The age is calculated as on 1st July of the relevant year."
+    },
+    {
+      "title": "Total Permanent Disability",
+      "description": "The applicant must have suffered total permanent disability due to an accident. This includes loss of use of both eyes, both hands, both legs, or one eye along with one hand and one leg. Paralysis causing loss of vision in both eyes or brain dysfunction is also treated as total permanent disability."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Offline",
+
+    "registration_steps": [],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Visit the Concerned Office",
+        "description": "Visit the office of the District Officer or the Labour Welfare Committee."
+      },
+      {
+        "step": 2,
+        "title": "Collect the Application Form",
+        "description": "Obtain the prescribed application form and fill in all required details."
+      },
+      {
+        "step": 3,
+        "title": "Attach Documents",
+        "description": "Attach all the required supporting documents. Ensure documents are self-attested or attested where applicable."
+      },
+      {
+        "step": 4,
+        "title": "Submit the Application",
+        "description": "Submit the completed application form to the concerned District Officer or Labour Welfare Committee."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Prescribed Application Form-2",
+      "mandatory": true,
+      "remarks": ""
+    },
+    {
+      "name": "Residential Certificate",
+      "mandatory": true,
+      "remarks": "Proof of residence in Bihar."
+    },
+    {
+      "name": "Age Proof",
+      "mandatory": true,
+      "remarks": "Aadhaar Card, Voter ID, or any valid proof of age."
+    },
+    {
+      "name": "Photograph Showing Disability",
+      "mandatory": true,
+      "remarks": "Recent photograph clearly showing the disability status."
+    },
+    {
+      "name": "Accident Report",
+      "mandatory": true,
+      "remarks": "Copy of police report or certificate issued by the Mukhiya/Ward Councillor if police reporting is not required."
+    },
+    {
+      "name": "Disability Certificate",
+      "mandatory": true,
+      "remarks": "Issued by the competent authority. Certificate from a Government Orthopedic Surgeon is required."
+    },
+    {
+      "name": "Occupation Certificate",
+      "mandatory": true,
+      "remarks": "Certificate issued by the Mukhiya, Ward Member, Panchayat Samiti Member, or Ward Councillor certifying the nature of work."
+    },
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Identity proof."
+    },
+    {
+      "name": "Caste Certificate",
+      "mandatory": false,
+      "remarks": "Required if applicable."
+    },
+    {
+      "name": "Bank Passbook",
+      "mandatory": true,
+      "remarks": "Photocopy of the first page showing account details and IFSC code."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "062-2520053",
+    "email": "edbslws2017@gmail.com"
+  },
+
+  "important_notes": [
+    "The scheme is applicable only to workers and artisans engaged in the unorganised sector in Bihar.",
+    "Age is calculated as on 1st July of the relevant year.",
+    "The financial assistance is available only in cases of total permanent disability as defined under the scheme.",
+    "Applications must be submitted offline to the concerned District Officer or Labour Welfare Committee.",
+    "A disability certificate issued by the competent authority is mandatory."
+  ],
+
+  "faqs": [
+    {
+      "question": "What financial assistance is provided under this scheme?",
+      "answer": "Eligible beneficiaries receive a one-time financial assistance of ₹75,000."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Workers and craftsmen in the unorganised sector of Bihar aged between 18 and 65 years who have suffered total permanent disability."
+    },
+    {
+      "question": "Is the application process online?",
+      "answer": "No. Applications must be submitted offline to the concerned District Officer or Labour Welfare Committee."
+    },
+    {
+      "question": "What is considered total permanent disability?",
+      "answer": "Loss of use of both eyes, both hands, both legs, one eye with one hand and one leg, or paralysis causing loss of vision or brain function is treated as total permanent disability."
+    },
+    {
+      "question": "Is a disability certificate mandatory?",
+      "answer": "Yes. A disability certificate issued by the competent authority is mandatory."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

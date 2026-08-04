@@ -1,0 +1,255 @@
+{
+  "id": 11,
+  "scheme_code": "",
+
+  "scheme_name": "BC & EBC Girls Residential +2 High School",
+
+  "state": "Bihar",
+
+  "department": "BC & EBC Welfare Department",
+
+  "categories": [
+    "Education",
+    "Backward Class",
+    "Extremely Backward Class",
+    "Girl Student",
+    "Free Accommodation",
+    "Hostel",
+    "Vocational Training"
+  ],
+
+  "description": "The BC & EBC Girls Residential +2 High School Scheme, launched by the BC & EBC Welfare Department, Government of Bihar, provides quality residential education to girl students belonging to the Backward Class (BC) and Extremely Backward Class (EBC). Residential schools have been established in all 38 districts of Bihar to ensure quality education, free accommodation, nutritious food, skill development, and modern learning facilities for the educational and overall development of eligible students.",
+
+  "objectives": [
+    "Provide quality residential education to BC and EBC girl students.",
+    "Promote educational and overall development in a safe learning environment.",
+    "Reduce financial barriers to secondary and higher secondary education.",
+    "Develop vocational, technical, and life skills among students.",
+    "Prepare students for higher education and competitive examinations."
+  ],
+
+  "benefits": [
+    {
+      "title": "Free Education",
+      "description": "Free admission and education for eligible girl students."
+    },
+    {
+      "title": "Free Hostel Facility",
+      "description": "Free residential accommodation with food and snacks as per the prescribed menu."
+    },
+    {
+      "title": "DBT Assistance",
+      "description": "Financial assistance for clothes, books, medicines, cleaning, and other necessities is provided through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "title": "Modern Learning Facilities",
+      "description": "Laboratories with modern facilities, Jananayak Library, Digital Study Centre, uninterrupted electricity, and quality study materials."
+    },
+    {
+      "title": "Skill Development",
+      "description": "Vocational training, skill development programmes, horticulture training, science and mathematics clubs, literature and sociology clubs."
+    },
+    {
+      "title": "Career Support",
+      "description": "Career guidance sessions, motivational lectures by experts, educational tours, and free competitive examination study material."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Gender",
+      "description": "The applicant must be a girl student."
+    },
+    {
+      "title": "Residence",
+      "description": "The applicant must be a resident of Bihar."
+    },
+    {
+      "title": "Category",
+      "description": "The applicant must belong to the Backward Class (BC) or Extremely Backward Class (EBC)."
+    },
+    {
+      "title": "Class Eligibility",
+      "description": "Benefits are available to students studying from Class VI to Class XII."
+    },
+    {
+      "title": "Selection Process",
+      "description": "Admission to Classes VI, VII, VIII, and IX is based on an entrance examination."
+    },
+    {
+      "title": "Income Limit",
+      "description": "The annual income of the applicant's parents or guardians should not exceed ₹3,00,000."
+    },
+    {
+      "title": "Age Criteria",
+      "description": "Age should be 11–13 years for Class VI, 12–14 years for Class VII, 13–15 years for Class VIII, and 14–16 years for Class IX."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Online / Offline",
+
+    "registration_steps": [
+      {
+        "step": 1,
+        "title": "Visit Official Website",
+        "description": "Visit the official portal and click on the 'Register' option."
+      },
+      {
+        "step": 2,
+        "title": "Accept Terms",
+        "description": "Accept the Terms and Conditions."
+      },
+      {
+        "step": 3,
+        "title": "Fill Registration Form",
+        "description": "Enter personal details including name, date of birth, gender, parents' details, Aadhaar number, and mobile number."
+      },
+      {
+        "step": 4,
+        "title": "Create Login",
+        "description": "Enter the captcha code, create a password, and submit the registration."
+      },
+      {
+        "step": 5,
+        "title": "Receive Credentials",
+        "description": "After successful registration, receive the User ID and password."
+      }
+    ],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Login",
+        "description": "Log in using the User ID and password."
+      },
+      {
+        "step": 2,
+        "title": "Enter Details",
+        "description": "Fill in personal information, educational details, Aadhaar information, address, and qualification details."
+      },
+      {
+        "step": 3,
+        "title": "Upload Documents",
+        "description": "Upload the required documents including photograph, signature, birth certificate, caste certificate, income certificate, and residence certificate."
+      },
+      {
+        "step": 4,
+        "title": "Select Schools",
+        "description": "Enter the advertisement number and provide preferences for three schools."
+      },
+      {
+        "step": 5,
+        "title": "Submit Application",
+        "description": "Accept the Terms and Conditions and submit the application."
+      },
+      {
+        "step": 6,
+        "title": "Receive Application Number",
+        "description": "An application number will be generated after successful submission."
+      },
+      {
+        "step": 7,
+        "title": "Track Application",
+        "description": "Use the official portal to check admit card status, examination schedule, results, admission status, and commencement of classes."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Identity Proof",
+      "mandatory": true,
+      "remarks": "Valid identity proof of the applicant."
+    },
+    {
+      "name": "Caste Certificate",
+      "mandatory": true,
+      "remarks": "Proof of BC/EBC category."
+    },
+    {
+      "name": "Income Certificate",
+      "mandatory": true,
+      "remarks": "Annual family income should not exceed ₹3,00,000."
+    },
+    {
+      "name": "Residence Certificate",
+      "mandatory": true,
+      "remarks": "Proof of residence in Bihar."
+    },
+    {
+      "name": "Educational Qualification Certificates",
+      "mandatory": true,
+      "remarks": "Previous class mark sheets or certificates."
+    },
+    {
+      "name": "Age Proof",
+      "mandatory": true,
+      "remarks": "Birth Certificate or School Certificate."
+    },
+    {
+      "name": "Recent Passport-size Photograph",
+      "mandatory": true,
+      "remarks": "Recent color photograph."
+    },
+    {
+      "name": "Applicant Signature",
+      "mandatory": true,
+      "remarks": "Scanned signature in the prescribed format."
+    },
+    {
+      "name": "Other Supporting Documents",
+      "mandatory": false,
+      "remarks": "Any additional documents required by the department."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "Residential +2 schools are available in all 38 districts of Bihar.",
+    "Admission to Classes VI to IX is based on an entrance examination.",
+    "Financial assistance for clothes, books, medicines, and other essentials is transferred through DBT.",
+    "The scheme offers vocational training, career guidance, digital learning facilities, and educational tours.",
+    "Applicants can track admit cards, examination schedules, results, admissions, and class commencement through the official portal."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Girl students who are residents of Bihar and belong to the BC or EBC category."
+    },
+    {
+      "question": "Is hostel accommodation free?",
+      "answer": "Yes. Free residential accommodation along with food and snacks is provided."
+    },
+    {
+      "question": "What is the annual family income limit?",
+      "answer": "The annual income of the applicant's parents or guardians should not exceed ₹3,00,000."
+    },
+    {
+      "question": "How are students selected?",
+      "answer": "Selection for admission to Classes VI, VII, VIII, and IX is based on an entrance examination."
+    },
+    {
+      "question": "Does the scheme provide vocational training?",
+      "answer": "Yes. The scheme provides vocational training, skill development programmes, career guidance, and modern educational facilities."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

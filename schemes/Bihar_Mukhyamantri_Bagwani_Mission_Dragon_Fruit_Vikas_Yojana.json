@@ -1,0 +1,234 @@
+{
+  "id": 4,
+  "scheme_code": "",
+
+  "scheme_name": "Mukhyamantri Bagwani Mission: Dragon Fruit Vikas Yojana",
+
+  "state": "Bihar",
+
+  "department": "Department of Agriculture",
+
+  "categories": [
+    "Agriculture",
+    "Horticulture",
+    "Dragon Fruit Development",
+    "Financial Assistance",
+    "Subsidy",
+    "Plantation"
+  ],
+
+  "description": "The Dragon Fruit Vikas Yojana is a component of the Mukhyamantri Bagwani Mission launched by the Department of Agriculture, Government of Bihar. The scheme aims to promote the commercial cultivation of dragon fruit across selected districts of Bihar by providing financial assistance to ryot farmers. It seeks to increase the area under horticultural cultivation, improve farmers' income, and encourage diversification of agriculture through dragon fruit farming.",
+
+  "objectives": [
+    "Promote commercial cultivation of dragon fruit in Bihar.",
+    "Increase the area under horticultural crops.",
+    "Provide financial assistance to ryot farmers for dragon fruit cultivation.",
+    "Enhance farmers' income through high-value horticulture.",
+    "Encourage sustainable agricultural diversification."
+  ],
+
+  "benefits": [
+    {
+      "title": "First Year Financial Assistance",
+      "description": "₹1,80,000 per hectare for dragon fruit cultivation."
+    },
+    {
+      "title": "Second Year Financial Assistance",
+      "description": "₹60,000 per hectare."
+    },
+    {
+      "title": "Third Year Financial Assistance",
+      "description": "₹60,000 per hectare."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant must be a permanent resident of Bihar."
+    },
+    {
+      "title": "Farmer Category",
+      "description": "The applicant must be a ryot farmer."
+    },
+    {
+      "title": "Eligible Districts",
+      "description": "The applicant must belong to one of the following districts: Bhojpur, Gopalganj, Jehanabad, Saran, Siwan, Supaul, Aurangabad, Begusarai, Bhagalpur, Gaya, Katihar, Kishanganj, Munger, Muzaffarpur, Nalanda, West Champaran, Patna, East Champaran, Purnia, Samastipur, or Vaishali."
+    },
+    {
+      "title": "Land Requirement",
+      "description": "The applicant must possess agricultural land ranging from a minimum of 0.25 acres (0.1 hectare) to a maximum of 10 acres (4 hectares)."
+    },
+    {
+      "title": "DBT Registration",
+      "description": "The applicant must be registered on the Bihar DBT portal."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Online",
+
+    "registration_steps": [
+      {
+        "step": 1,
+        "title": "Visit DBT Portal",
+        "description": "Visit the Bihar DBT farmer registration portal."
+      },
+      {
+        "step": 2,
+        "title": "Verify Aadhaar",
+        "description": "Select Aadhaar verification mode (OTP/BIO-AUTH/IRIS) and authenticate using Aadhaar details."
+      },
+      {
+        "step": 3,
+        "title": "Validate OTP",
+        "description": "Enter the OTP received and validate it."
+      },
+      {
+        "step": 4,
+        "title": "Confirm KCC Details",
+        "description": "Verify Kisan Credit Card (KCC) details and proceed with farmer registration."
+      },
+      {
+        "step": 5,
+        "title": "Fill Registration Form",
+        "description": "Enter farmer details, land information, and bank account details."
+      },
+      {
+        "step": 6,
+        "title": "Submit Registration",
+        "description": "Validate with OTP and submit the registration to generate a 13-digit DBT Registration ID."
+      },
+      {
+        "step": 7,
+        "title": "Wait for Activation",
+        "description": "After 48 hours of successful registration, use the DBT Registration Number to apply for the scheme."
+      }
+    ],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Visit Scheme Portal",
+        "description": "Open the official scheme website."
+      },
+      {
+        "step": 2,
+        "title": "Proceed to Apply",
+        "description": "Scroll down, confirm the declaration checkbox, and click 'Proceed to Apply'."
+      },
+      {
+        "step": 3,
+        "title": "Enter Registration Details",
+        "description": "Select the applicant type and enter the 13-digit DBT Registration Number."
+      },
+      {
+        "step": 4,
+        "title": "Fill Application Form",
+        "description": "Provide address, land details, and other required information."
+      },
+      {
+        "step": 5,
+        "title": "Upload Documents",
+        "description": "Upload all the required supporting documents."
+      },
+      {
+        "step": 6,
+        "title": "Submit Application",
+        "description": "Accept the declaration and submit the application."
+      },
+      {
+        "step": 7,
+        "title": "Save Application Number",
+        "description": "Note the generated Application Number and print the application for future reference."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Must be linked with the registered mobile number."
+    },
+    {
+      "name": "Passport Size Photograph",
+      "mandatory": true,
+      "remarks": "Required during both DBT registration and scheme application."
+    },
+    {
+      "name": "Farmer Details",
+      "mandatory": true,
+      "remarks": "Required during DBT registration."
+    },
+    {
+      "name": "Land Information",
+      "mandatory": true,
+      "remarks": "Required during DBT registration."
+    },
+    {
+      "name": "Bank Account Details",
+      "mandatory": true,
+      "remarks": "Required during DBT registration."
+    },
+    {
+      "name": "Land Ownership Certificate / Revenue Receipt",
+      "mandatory": true,
+      "remarks": "Required during scheme application, if applicable."
+    },
+    {
+      "name": "Genealogy Certificate",
+      "mandatory": false,
+      "remarks": "Required if the applicant's name is not clearly mentioned in the land ownership or revenue receipt."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The scheme is available only in 21 notified districts of Bihar.",
+    "Farmers must complete DBT registration before applying for the scheme.",
+    "Applications are processed on a first-come, first-served basis.",
+    "Beneficiary allocation: General Category – 78.56%, Scheduled Castes – 20%, Scheduled Tribes – 1.44%, Women – 30%.",
+    "A valid 13-digit DBT Registration Number is mandatory for application."
+  ],
+
+  "faqs": [
+    {
+      "question": "What financial assistance is provided under the scheme?",
+      "answer": "₹1,80,000 per hectare in the first year, ₹60,000 per hectare in the second year, and ₹60,000 per hectare in the third year."
+    },
+    {
+      "question": "Who is eligible to apply?",
+      "answer": "Ryot farmers who are residents of Bihar, belong to one of the notified districts, own eligible agricultural land, and are registered on the DBT portal."
+    },
+    {
+      "question": "Is DBT registration mandatory?",
+      "answer": "Yes. Farmers must register on the Bihar DBT portal before applying for the scheme."
+    },
+    {
+      "question": "How are beneficiaries selected?",
+      "answer": "Beneficiaries are selected on a first-come, first-served basis."
+    },
+    {
+      "question": "What is the minimum land requirement?",
+      "answer": "Applicants must have at least 0.25 acres (0.1 hectare) of agricultural land."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

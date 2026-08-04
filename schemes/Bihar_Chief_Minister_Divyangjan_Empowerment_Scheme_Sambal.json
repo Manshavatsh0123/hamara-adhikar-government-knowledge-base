@@ -1,0 +1,206 @@
+{
+  "id": 3,
+  "scheme_code": "",
+
+  "scheme_name": "Chief Minister Divyangjan Empowerment Scheme (Sambal)",
+
+  "state": "Bihar",
+
+  "department": "Department of Social Welfare",
+
+  "categories": [
+    "Disability",
+    "Empowerment",
+    "Financial Assistance",
+    "Scholarship",
+    "Self Employment"
+  ],
+
+  "description": "The Chief Minister Divyangjan Empowerment Scheme (Sambal) is an initiative of the Government of Bihar to ensure the welfare and empowerment of persons with disabilities. The scheme aims to provide timely access to disability-related welfare schemes, promote awareness about the rights of persons with disabilities, and support their physical, social, educational, and economic empowerment. The scheme is fully funded by the State Government and also provides supplementary financial assistance for beneficiaries covered under National Trust schemes.",
+
+  "objectives": [
+    "Provide timely benefits under disability welfare schemes.",
+    "Promote awareness about the rights of persons with disabilities.",
+    "Empower persons with disabilities physically, socially, educationally, and economically.",
+    "Provide financial support for self-employment, education, and rehabilitation.",
+    "Support beneficiaries covered under National Trust schemes through state-funded assistance."
+  ],
+
+  "benefits": [
+    {
+      "title": "Self-Employment Loan",
+      "description": "Financial assistance in the form of a loan of up to ₹2,00,000 for self-employment."
+    },
+    {
+      "title": "Scholarship Support",
+      "description": "Scholarships are provided for students studying in special schools at rates applicable under the scheme."
+    },
+    {
+      "title": "National Trust Assistance",
+      "description": "State grant is provided for eligible beneficiaries under National Trust schemes based on scheme requirements."
+    },
+    {
+      "title": "Special Financial Assistance",
+      "description": "Special grants may be provided in exceptional cases involving multiple disabilities or as per specific beneficiary needs."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Self-Employment Loan",
+      "description": "Applicants should be between 18 and 60 years of age."
+    },
+    {
+      "title": "Artificial Limbs and Equipment",
+      "description": "Applicants should be more than 5 years of age."
+    },
+    {
+      "title": "Special School",
+      "description": "Students should be between 6 and 18 years of age."
+    },
+    {
+      "title": "Shelter Home",
+      "description": "Applicants for Ashiyana/Saket shelter homes must be at least 18 years old."
+    },
+    {
+      "title": "Special Cases",
+      "description": "In exceptional cases involving multiple disabilities or court judgments, there will be no restriction on age or income."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Online",
+
+    "registration_steps": [
+      {
+        "step": 1,
+        "title": "Visit Official Website",
+        "description": "Visit the official portal for the scheme."
+      },
+      {
+        "step": 2,
+        "title": "Register",
+        "description": "Complete the mandatory online registration process."
+      },
+      {
+        "step": 3,
+        "title": "Login",
+        "description": "Log in using the registered credentials."
+      }
+    ],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Fill Application Form",
+        "description": "Complete the online application form with personal details."
+      },
+      {
+        "step": 2,
+        "title": "Upload Photograph and Signature",
+        "description": "Upload the applicant's recent photograph and signature."
+      },
+      {
+        "step": 3,
+        "title": "Upload Documents",
+        "description": "Upload all the required supporting documents."
+      },
+      {
+        "step": 4,
+        "title": "Submit Application",
+        "description": "Review the application and submit it online."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Identity proof."
+    },
+    {
+      "name": "PAN Card",
+      "mandatory": true,
+      "remarks": ""
+    },
+    {
+      "name": "Permanent Address Proof",
+      "mandatory": true,
+      "remarks": ""
+    },
+    {
+      "name": "Passport-size Photographs",
+      "mandatory": true,
+      "remarks": "Two recent passport-size photographs."
+    },
+    {
+      "name": "Bank Account Proof",
+      "mandatory": true,
+      "remarks": "Bank passbook or cancelled cheque."
+    },
+    {
+      "name": "Mobile Number Linked with Aadhaar",
+      "mandatory": true,
+      "remarks": "The mobile number should be registered with Aadhaar."
+    },
+    {
+      "name": "Caste Certificate",
+      "mandatory": false,
+      "remarks": "Applicable if required."
+    },
+    {
+      "name": "Below Poverty Line (BPL) Certificate",
+      "mandatory": false,
+      "remarks": "Applicable if available or required."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The scheme is fully funded by the Government of Bihar.",
+    "Financial assistance under National Trust schemes is provided as per beneficiary requirements.",
+    "Special provisions are available for applicants with multiple disabilities.",
+    "Online registration is mandatory before submitting the application."
+  ],
+
+  "faqs": [
+    {
+      "question": "What is the maximum self-employment loan available?",
+      "answer": "Eligible beneficiaries can receive a loan of up to ₹2,00,000."
+    },
+    {
+      "question": "Who can apply for self-employment assistance?",
+      "answer": "Persons with disabilities between 18 and 60 years of age can apply."
+    },
+    {
+      "question": "Is there any age limit for artificial limbs and assistive devices?",
+      "answer": "Yes. The applicant should be more than 5 years of age."
+    },
+    {
+      "question": "Is online registration mandatory?",
+      "answer": "Yes. Applicants must register online before filling out the application form."
+    },
+    {
+      "question": "Does the scheme provide support under National Trust schemes?",
+      "answer": "Yes. The State Government provides supplementary financial assistance for eligible National Trust beneficiaries."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "id": 22,
+  "scheme_code": "",
+
+  "scheme_name": "Mukhyamantri Nijee Nalkup Yojana",
+
+  "state": "Bihar",
+
+  "department": "Minor Water Resources Department",
+
+  "categories": [
+    "Agriculture",
+    "Borewell",
+    "Farmer",
+    "Irrigation"
+  ],
+
+  "description": "The Mukhyamantri Nijee Nalkup Yojana, launched by the Minor Water Resources Department, Government of Bihar, provides financial assistance to farmers for borewell construction and motor pump installation to improve irrigation facilities. The scheme aims to ensure water availability for agriculture, especially in underprivileged regions with limited irrigation infrastructure.",
+
+  "objectives": [
+    "Provide financial assistance for borewell construction.",
+    "Support installation of motor pumps for irrigation.",
+    "Increase irrigation coverage in underserved agricultural areas.",
+    "Improve agricultural productivity through assured water supply."
+  ],
+
+  "benefits": [
+    {
+      "title": "Borewell Construction Subsidy",
+      "description": "General Category: ₹600 per meter (15–70 meters); Backward/Most Backward Classes: ₹840 per meter (15–70 meters); Scheduled Caste/Scheduled Tribe: ₹900 per meter (15–70 meters)."
+    },
+    {
+      "title": "Motor Pump Subsidy",
+      "description": "General Category: 50% subsidy; Backward/Extremely Backward Classes: 70% subsidy; Scheduled Caste/Scheduled Tribe: 80% subsidy on 2HP, 3HP and 5HP motor pumps up to ₹20,000, ₹25,000 and ₹30,000 respectively."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Eligible Farmer",
+      "description": "Farmers identified under Saat Nischay-2 'Irrigation Water to Every Field' after a joint technical survey are eligible."
+    },
+    {
+      "title": "Land Requirement",
+      "description": "The farmer must own at least 0.40 acre (40 decimal) of land. Preference is given to small and marginal farmers."
+    },
+    {
+      "title": "Existing Borewell",
+      "description": "There should not be an existing borewell at the proposed site."
+    },
+    {
+      "title": "Previous Assistance",
+      "description": "The farmer should not have received any previous financial assistance for borewell construction at the same site."
+    },
+    {
+      "title": "Grant Limit",
+      "description": "Only one borewell and one motor pump set per farmer are eligible for subsidy."
+    },
+    {
+      "title": "Technical Requirement",
+      "description": "The borewell must have a depth of 15–70 meters and a diameter of 4–6 inches."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Online",
+    "registration_steps": [],
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Visit Application Portal",
+        "description": "Visit the official application portal."
+      },
+      {
+        "step": 2,
+        "title": "Verify Details",
+        "description": "Enter personal details and verify the Aadhaar number and registered mobile number."
+      },
+      {
+        "step": 3,
+        "title": "Upload Documents",
+        "description": "Upload the required documents in JPEG/PNG format."
+      },
+      {
+        "step": 4,
+        "title": "Accept Declaration",
+        "description": "Read the declaration carefully and accept the required terms."
+      },
+      {
+        "step": 5,
+        "title": "Submit Application",
+        "description": "Submit the application. No modifications can be made after submission."
+      },
+      {
+        "step": 6,
+        "title": "Submit Subsidy Claim",
+        "description": "After approval, complete the borewell construction within 60 days and upload the subsidy claim on the portal."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Required during application."
+    },
+    {
+      "name": "Land Holding Certificate (LPC)",
+      "mandatory": true,
+      "remarks": "Certificate should not be issued before 01/01/2023."
+    },
+    {
+      "name": "Caste Certificate",
+      "mandatory": true,
+      "remarks": "Required to claim category-based subsidy."
+    },
+    {
+      "name": "Photograph",
+      "mandatory": true,
+      "remarks": "Photograph of the applicant and marked borewell location."
+    },
+    {
+      "name": "Declaration Form",
+      "mandatory": true,
+      "remarks": "Required during application."
+    },
+    {
+      "name": "GST Voucher of Motor Pump",
+      "mandatory": true,
+      "remarks": "Required while submitting the subsidy claim."
+    },
+    {
+      "name": "GST Voucher of Pipe",
+      "mandatory": true,
+      "remarks": "Required while submitting the subsidy claim."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "Applications from over-exploited and critical blocks/panchayats identified by the Central Ground Water Board are not eligible.",
+    "The subsidy claim must be submitted within 60 days after approval.",
+    "Farmers may claim borewell and motor pump subsidies on the same or different dates within the prescribed period.",
+    "Photographs before, during and after borewell construction showing water flow must be uploaded.",
+    "Photographs of motor pump installation and water flow after installation are mandatory.",
+    "Motor pump installation will be verified physically by departmental officials before subsidy approval.",
+    "All tube-well materials used must be manufactured in India and comply with Indian quality standards."
+  ],
+
+  "faqs": [],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

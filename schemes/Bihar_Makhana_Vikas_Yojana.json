@@ -1,0 +1,239 @@
+{
+  "id": 8,
+  "scheme_code": "",
+
+  "scheme_name": "Makhana Vikas Yojana",
+
+  "state": "Bihar",
+
+  "department": "Department of Agriculture",
+
+  "categories": [
+    "Agriculture",
+    "Makhana Development",
+    "Financial Assistance",
+    "Training",
+    "Equipment Grant",
+    "Subsidy"
+  ],
+
+  "description": "Makhana Vikas Yojana is an initiative of the Department of Agriculture, Government of Bihar, to promote Makhana cultivation and improve productivity in selected districts of the state. The scheme provides training to farmers, encourages the adoption of improved cultivation practices, and offers financial assistance for purchasing traditional Makhana cultivation and processing equipment. The scheme is implemented in ten designated districts of Bihar.",
+
+  "objectives": [
+    "Promote the cultivation of Makhana in Bihar.",
+    "Increase productivity through improved farming practices.",
+    "Provide training and technical guidance to farmers.",
+    "Support farmers with financial assistance for traditional Makhana cultivation equipment.",
+    "Enhance the income of Makhana growers."
+  ],
+
+  "benefits": [
+    {
+      "title": "Farmer Training",
+      "description": "Training programmes and workshops are organized to help farmers adopt modern cultivation practices and improve productivity."
+    },
+    {
+      "title": "Equipment Grant",
+      "description": "Financial assistance of 75% of the equipment cost, subject to a maximum of ₹16,575, is provided for purchasing traditional Makhana cultivation and processing tools."
+    },
+    {
+      "title": "Traditional Equipment Covered",
+      "description": "The grant covers equipment such as Auka, Ganj, Kara, Khainchi, Chalni, Chatai, Afra, and Thaapi."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Farmer",
+      "description": "The applicant must be a farmer."
+    },
+    {
+      "title": "Eligible District",
+      "description": "The applicant must belong to one of the following districts: Katihar, Purnia, Darbhanga, Madhubani, Kishanganj, Supaul, Araria, Madhepura, Saharsa, or Khagaria."
+    },
+    {
+      "title": "Land Requirement",
+      "description": "The applicant must possess agricultural land ranging from a minimum of 0.25 acres (0.1 hectare) to a maximum of 10 acres (4 hectares)."
+    },
+    {
+      "title": "DBT Registration",
+      "description": "The applicant must be registered on the Bihar DBT portal."
+    },
+    {
+      "title": "Ryot and Non-Ryot Farmers",
+      "description": "Ryot farmers are eligible based on land ownership documents, while non-ryot farmers must provide a valid contract form."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Online",
+
+    "registration_steps": [
+      {
+        "step": 1,
+        "title": "Visit DBT Portal",
+        "description": "Visit the Bihar DBT farmer registration portal."
+      },
+      {
+        "step": 2,
+        "title": "Verify Aadhaar",
+        "description": "Authenticate Aadhaar using OTP, BIO-AUTH, or IRIS."
+      },
+      {
+        "step": 3,
+        "title": "Validate OTP",
+        "description": "Enter and verify the OTP received on the registered mobile number."
+      },
+      {
+        "step": 4,
+        "title": "Confirm KCC Details",
+        "description": "Verify Kisan Credit Card (KCC) details and proceed with farmer registration."
+      },
+      {
+        "step": 5,
+        "title": "Fill Registration Form",
+        "description": "Provide farmer details, land information, and bank account details."
+      },
+      {
+        "step": 6,
+        "title": "Generate Registration ID",
+        "description": "Submit the application and generate the 13-digit DBT Registration Number."
+      },
+      {
+        "step": 7,
+        "title": "Wait for Activation",
+        "description": "After 48 hours, use the DBT Registration Number to apply for the scheme."
+      }
+    ],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Visit Official Portal",
+        "description": "Open the official scheme portal."
+      },
+      {
+        "step": 2,
+        "title": "Proceed to Apply",
+        "description": "Scroll to the bottom, accept the declaration, and click 'Proceed to Apply'."
+      },
+      {
+        "step": 3,
+        "title": "Enter Registration Number",
+        "description": "Select the applicant type and enter the 13-digit DBT Registration Number."
+      },
+      {
+        "step": 4,
+        "title": "Fill Application Form",
+        "description": "Provide address, land details, and other required information."
+      },
+      {
+        "step": 5,
+        "title": "Upload Documents",
+        "description": "Upload all the required supporting documents."
+      },
+      {
+        "step": 6,
+        "title": "Submit Application",
+        "description": "Accept the declaration and submit the application."
+      },
+      {
+        "step": 7,
+        "title": "Save Application Number",
+        "description": "Note the generated application number and print the application for future reference."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Must be linked with the registered mobile number."
+    },
+    {
+      "name": "Passport Size Photograph",
+      "mandatory": true,
+      "remarks": "Required during DBT registration and scheme application."
+    },
+    {
+      "name": "Farmer Details",
+      "mandatory": true,
+      "remarks": "Required for DBT registration."
+    },
+    {
+      "name": "Land Information",
+      "mandatory": true,
+      "remarks": "Required for DBT registration."
+    },
+    {
+      "name": "Bank Account Details",
+      "mandatory": true,
+      "remarks": "Required for DBT registration."
+    },
+    {
+      "name": "Contract Form",
+      "mandatory": false,
+      "remarks": "Required for non-ryot farmers."
+    },
+    {
+      "name": "Land Ownership Document / Revenue Receipt",
+      "mandatory": false,
+      "remarks": "Required for ryot farmers, if applicable."
+    },
+    {
+      "name": "Genealogy Certificate",
+      "mandatory": false,
+      "remarks": "Required if the applicant's name is not clearly mentioned in the land ownership or revenue receipt."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The scheme is implemented only in ten notified districts of Bihar.",
+    "Women beneficiaries are allocated 30% participation under the scheme.",
+    "Ryot farmers must provide land ownership documents, while non-ryot farmers must submit a valid contract form.",
+    "Beneficiaries are selected on a first-come, first-served basis.",
+    "A valid DBT Registration Number is mandatory before applying."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who can apply for Makhana Vikas Yojana?",
+      "answer": "Farmers from the ten notified districts of Bihar who are registered on the DBT portal and meet the land eligibility criteria."
+    },
+    {
+      "question": "What financial assistance is provided under the scheme?",
+      "answer": "A grant covering 75% of the equipment cost, up to a maximum of ₹16,575, is provided for traditional Makhana cultivation and processing equipment."
+    },
+    {
+      "question": "Is DBT registration mandatory?",
+      "answer": "Yes. Farmers must complete registration on the Bihar DBT portal before applying."
+    },
+    {
+      "question": "Can non-ryot farmers apply?",
+      "answer": "Yes. Non-ryot farmers can apply by submitting a valid contract form."
+    },
+    {
+      "question": "How are beneficiaries selected?",
+      "answer": "Beneficiaries are selected on a first-come, first-served basis."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

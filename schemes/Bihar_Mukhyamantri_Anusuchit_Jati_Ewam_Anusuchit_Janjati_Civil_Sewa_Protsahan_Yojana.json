@@ -1,0 +1,227 @@
+{
+  "id": 19,
+  "scheme_code": "",
+
+  "scheme_name": "Mukhyamantri Anusuchit Jati Ewam Anusuchit Janjati Civil Sewa Protsahan Yojana",
+
+  "state": "Bihar",
+
+  "department": "Scheduled Caste and Scheduled Tribe Welfare Department",
+
+  "categories": [
+    "Education",
+    "Competitive Examination",
+    "Financial Assistance",
+    "Scheduled Caste",
+    "Scheduled Tribe",
+    "Civil Services"
+  ],
+
+  "description": "The Mukhyamantri Anusuchit Jati Ewam Anusuchit Janjati Civil Sewa Protsahan Yojana is implemented by the Scheduled Caste and Scheduled Tribe Welfare Department, Government of Bihar. The scheme provides financial assistance to Scheduled Caste (SC) and Scheduled Tribe (ST) candidates who qualify the preliminary examination conducted by the Bihar Public Service Commission (BPSC) or the Union Public Service Commission (UPSC). The assistance enables eligible candidates to prepare for the mains examination and interview.",
+
+  "objectives": [
+    "Provide financial assistance to SC and ST candidates who qualify civil services preliminary examinations.",
+    "Support candidates in preparing for the mains examination and interview.",
+    "Encourage participation of Scheduled Caste and Scheduled Tribe candidates in civil services.",
+    "Promote educational and career advancement among SC and ST communities."
+  ],
+
+  "benefits": [
+    {
+      "title": "BPSC Preliminary Examination Incentive",
+      "description": "A one-time financial assistance of ₹50,000 is provided to Scheduled Caste and Scheduled Tribe candidates who qualify the Bihar Public Service Commission (BPSC) Combined Competitive Preliminary Examination."
+    },
+    {
+      "title": "UPSC Preliminary Examination Incentive",
+      "description": "A one-time financial assistance of ₹1,00,000 is provided to Scheduled Caste and Scheduled Tribe candidates who qualify the Union Public Service Commission (UPSC) Civil Services Preliminary Examination."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant must be a permanent resident of Bihar."
+    },
+    {
+      "title": "Category",
+      "description": "The applicant must belong to the Scheduled Caste (SC) or Scheduled Tribe (ST) category."
+    },
+    {
+      "title": "Competitive Examination",
+      "description": "The applicant must have qualified the preliminary examination conducted by BPSC or UPSC."
+    },
+    {
+      "title": "One-Time Benefit",
+      "description": "The benefit under this scheme can be availed only once."
+    },
+    {
+      "title": "Previous Assistance",
+      "description": "The applicant should not have received the same incentive from any other source."
+    },
+    {
+      "title": "Employment Status",
+      "description": "Applicants employed in any Government Department, Public Sector Undertaking, or State-Funded Institution are not eligible."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Online",
+
+    "registration_steps": [
+      {
+        "step": 1,
+        "title": "Visit Official Website",
+        "description": "Visit the department's official website and select the scheme."
+      },
+      {
+        "step": 2,
+        "title": "New Registration",
+        "description": "Click on 'New Registration' and read the registration guidelines carefully."
+      },
+      {
+        "step": 3,
+        "title": "Fill Registration Form",
+        "description": "Enter personal details, educational qualifications, and other required information."
+      },
+      {
+        "step": 4,
+        "title": "Upload Documents",
+        "description": "Upload photograph, signature, and all required supporting documents."
+      },
+      {
+        "step": 5,
+        "title": "Submit Registration",
+        "description": "Submit the registration form to receive a Registration ID and Password."
+      }
+    ],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Applicant Login",
+        "description": "Log in using the Registration ID, Password, and verification code."
+      },
+      {
+        "step": 2,
+        "title": "Complete Application",
+        "description": "Fill the application form with all required details."
+      },
+      {
+        "step": 3,
+        "title": "Verify Details",
+        "description": "Review the application carefully before final submission."
+      },
+      {
+        "step": 4,
+        "title": "Submit Application",
+        "description": "Submit the application. An Application ID will be generated after successful submission."
+      },
+      {
+        "step": 5,
+        "title": "Print Application",
+        "description": "Download and print the finally submitted application form for future reference."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Passport-size Photograph",
+      "mandatory": true,
+      "remarks": "Recent passport-size photograph."
+    },
+    {
+      "name": "Scanned Signature",
+      "mandatory": true,
+      "remarks": "Applicant's scanned signature."
+    },
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Identity proof."
+    },
+    {
+      "name": "Admit Card",
+      "mandatory": true,
+      "remarks": "Self-attested copy of the preliminary examination admit card."
+    },
+    {
+      "name": "Proof of Passing Preliminary Examination",
+      "mandatory": true,
+      "remarks": "Result or certificate showing qualification in the preliminary examination."
+    },
+    {
+      "name": "Residence Proof",
+      "mandatory": true,
+      "remarks": "Residence certificate issued by the competent authority."
+    },
+    {
+      "name": "Domicile Certificate",
+      "mandatory": true,
+      "remarks": "Proof of permanent residence in Bihar."
+    },
+    {
+      "name": "Caste Certificate",
+      "mandatory": true,
+      "remarks": "Scheduled Caste or Scheduled Tribe certificate."
+    },
+    {
+      "name": "Bank Account Details / Cancelled Cheque",
+      "mandatory": true,
+      "remarks": "Scanned copy of signed cancelled cheque or bank account details."
+    },
+    {
+      "name": "Additional Supporting Documents",
+      "mandatory": false,
+      "remarks": "Any additional documents required by the department."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The incentive can be availed only once by an eligible candidate.",
+    "Applicants who have already received a similar incentive from another source are not eligible.",
+    "Government employees, PSU employees, and employees of state-funded institutions are not eligible.",
+    "Only the finally submitted online application will be considered for processing."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who can apply under this scheme?",
+      "answer": "Permanent residents of Bihar belonging to the Scheduled Caste (SC) or Scheduled Tribe (ST) category who have qualified the BPSC or UPSC Civil Services Preliminary Examination."
+    },
+    {
+      "question": "What financial assistance is provided?",
+      "answer": "₹50,000 for qualifying the BPSC Preliminary Examination and ₹1,00,000 for qualifying the UPSC Civil Services Preliminary Examination."
+    },
+    {
+      "question": "Can the benefit be availed more than once?",
+      "answer": "No. The benefit under this scheme is available only once."
+    },
+    {
+      "question": "How can I apply?",
+      "answer": "Applications must be submitted online through the official portal after registration."
+    },
+    {
+      "question": "Can government employees apply?",
+      "answer": "No. Applicants employed in Government Departments, Public Sector Undertakings, or State-Funded Institutions are not eligible."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

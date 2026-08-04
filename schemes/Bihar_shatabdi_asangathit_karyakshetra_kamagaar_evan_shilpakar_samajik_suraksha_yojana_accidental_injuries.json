@@ -1,0 +1,184 @@
+{
+  "id": 23,
+  "scheme_code": "",
+
+  "scheme_name": "Mukhyamantri Bagwani Mission: Papita Vikas Yojana",
+
+  "state": "Bihar",
+
+  "department": "Department of Agriculture",
+
+  "categories": [
+    "Agriculture",
+    "Financial Assistance",
+    "Papaya Development",
+    "Plant Supply",
+    "Subsidy"
+  ],
+
+  "description": "The 'Papita Vikas Yojana' is a component of the umbrella scheme 'Mukhyamantri Bagwani Mission' launched by the Department of Agriculture, Government of Bihar. The scheme promotes commercial papaya cultivation across all districts of Bihar by providing financial assistance and high-quality tissue-cultured plants. It encourages inclusive participation through reserved quotas for Scheduled Castes, Scheduled Tribes, and women farmers. Financial assistance is provided through Direct Benefit Transfer (DBT), and both ryot and non-ryot farmers are eligible.",
+
+  "objectives": [
+    "Promote commercial cultivation of papaya in Bihar.",
+    "Increase horticultural production and farmers' income.",
+    "Provide financial assistance for papaya cultivation.",
+    "Supply high-quality tissue-cultured papaya plants.",
+    "Encourage participation of SC, ST, and women farmers."
+  ],
+
+  "benefits": [
+    {
+      "title": "Financial Assistance",
+      "description": "₹33,750 per hectare during the first year and ₹11,250 per hectare during the second year."
+    },
+    {
+      "title": "Plant Distribution",
+      "description": "Supply of high-quality tissue-cultured papaya plants."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant should be a resident of Bihar."
+    },
+    {
+      "title": "Farmer",
+      "description": "The applicant should be a farmer."
+    },
+    {
+      "title": "Land Requirement",
+      "description": "The applicant must have agricultural land ranging from a minimum of 0.25 acres (0.1 hectare) to a maximum of 10 acres (4 hectares)."
+    },
+    {
+      "title": "DBT Registration",
+      "description": "The applicant must be registered on the Agriculture Department DBT Portal."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Online",
+
+    "registration_steps": [
+      {
+        "step": 1,
+        "title": "Visit DBT Portal",
+        "description": "Visit the registration page of the Agriculture DBT Portal."
+      },
+      {
+        "step": 2,
+        "title": "Verify Aadhaar",
+        "description": "Select Aadhaar verification mode (OTP/BIO-AUTH/IRIS), enter Aadhaar details, and authenticate."
+      },
+      {
+        "step": 3,
+        "title": "Validate OTP",
+        "description": "Enter the OTP received on the registered mobile number and validate it."
+      },
+      {
+        "step": 4,
+        "title": "Farmer Registration",
+        "description": "Confirm Kisan Credit Card details, fill farmer, land, and bank details, submit the application, validate OTP, and generate the 13-digit Registration ID."
+      }
+    ],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Visit Official Portal",
+        "description": "Visit the official scheme portal and click 'Proceed to Apply'."
+      },
+      {
+        "step": 2,
+        "title": "Enter Registration Number",
+        "description": "Select applicant type and enter the 13-digit DBT Registration Number."
+      },
+      {
+        "step": 3,
+        "title": "Fill Application",
+        "description": "Provide address, land details, and other required information."
+      },
+      {
+        "step": 4,
+        "title": "Upload Documents",
+        "description": "Upload the required supporting documents."
+      },
+      {
+        "step": 5,
+        "title": "Submit Application",
+        "description": "Confirm the declaration, submit the application, and note the generated Application Number."
+      },
+      {
+        "step": 6,
+        "title": "Print Application",
+        "description": "Download and print the submitted application for future reference."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Aadhaar Details",
+      "mandatory": true,
+      "remarks": "Aadhaar should be linked with a mobile number."
+    },
+    {
+      "name": "Passport Size Photograph",
+      "mandatory": true,
+      "remarks": "Required for both DBT registration and scheme application."
+    },
+    {
+      "name": "Farmer Details",
+      "mandatory": true,
+      "remarks": "Required during DBT registration."
+    },
+    {
+      "name": "Land Information",
+      "mandatory": true,
+      "remarks": "Required during DBT registration."
+    },
+    {
+      "name": "Bank Account Details",
+      "mandatory": true,
+      "remarks": "Required for DBT registration and benefit transfer."
+    },
+    {
+      "name": "Contract Form",
+      "mandatory": false,
+      "remarks": "Applicable only for non-ryot farmers."
+    },
+    {
+      "name": "Land Ownership / Revenue Receipt",
+      "mandatory": true,
+      "remarks": "If ownership details are unclear, genealogy documents must also be attached."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "Beneficiary allocation: General Category 78.56%, Scheduled Castes 20%, Scheduled Tribes 1.44%, Women 30%.",
+    "Both ryot and non-ryot farmers are eligible.",
+    "Non-ryot farmers must submit a valid contract form.",
+    "Beneficiaries are selected on a first-come, first-served basis.",
+    "Applications can be submitted only after 48 hours of successful DBT registration."
+  ],
+
+  "faqs": [],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

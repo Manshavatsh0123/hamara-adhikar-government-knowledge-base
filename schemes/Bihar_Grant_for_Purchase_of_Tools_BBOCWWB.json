@@ -1,0 +1,219 @@
+{
+  "id": 20,
+  "scheme_code": "",
+
+  "scheme_name": "Grant for Purchase of Tools (BBOCWWB)",
+
+  "state": "Bihar",
+
+  "department": "Labour Resources Department, Bihar Building & Other Construction Workers Welfare Board (BBOCWWB)",
+
+  "categories": [
+    "Building Worker",
+    "Construction Worker",
+    "Financial Assistance",
+    "Labour",
+    "Tools",
+    "Unorganized Workers"
+  ],
+
+  "description": "The 'Grant for Purchase of Tools' scheme is implemented by the Bihar Building & Other Construction Workers Welfare Board (BBOCWWB), Labour Resources Department, Government of Bihar. Under this scheme, registered construction workers who have successfully completed skill upgradation training are provided financial assistance of up to ₹15,000 for purchasing trade-related tools required for their work.",
+
+  "objectives": [
+    "Provide financial assistance to construction workers for purchasing trade-related tools.",
+    "Encourage workers to complete skill upgradation training.",
+    "Improve the productivity and livelihood of registered construction workers."
+  ],
+
+  "benefits": [
+    {
+      "title": "Financial Assistance for Tools",
+      "description": "Financial assistance of up to ₹15,000 is provided for purchasing trade-related tools after completion of skill upgradation training."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Construction Worker",
+      "description": "The applicant should be engaged in building or construction work."
+    },
+    {
+      "title": "Registration",
+      "description": "The applicant should be registered with the Bihar Building & Other Construction Workers Welfare Board (BBOCWWB)."
+    },
+    {
+      "title": "Active Membership",
+      "description": "The applicant's membership with the Welfare Board should be active at the time of application."
+    },
+    {
+      "title": "Skill Upgradation",
+      "description": "The applicant should have completed any approved skill upgradation training."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Online/Offline",
+
+    "registration_steps": [
+      {
+        "step": 1,
+        "title": "Visit Official Website",
+        "description": "Visit the official website of the Bihar Building & Other Construction Workers Welfare Board."
+      },
+      {
+        "step": 2,
+        "title": "Labour Registration",
+        "description": "Click on 'Labour Registration'."
+      },
+      {
+        "step": 3,
+        "title": "Authenticate Aadhaar",
+        "description": "Enter Aadhaar number and name, then complete authentication."
+      },
+      {
+        "step": 4,
+        "title": "Fill Registration Form",
+        "description": "Enter all required details correctly."
+      },
+      {
+        "step": 5,
+        "title": "Submit Registration",
+        "description": "Submit the registration form and pay the application fee online."
+      },
+      {
+        "step": 6,
+        "title": "Receive Registration Number",
+        "description": "Construction worker registration number is generated after successful registration."
+      }
+    ],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Login",
+        "description": "Visit the official website, click 'Login' and select 'Labour'."
+      },
+      {
+        "step": 2,
+        "title": "Verify Details",
+        "description": "Enter registration number and year of birth to view worker details."
+      },
+      {
+        "step": 3,
+        "title": "Select Scheme",
+        "description": "Choose the 'Grant for Purchase of Tools' scheme."
+      },
+      {
+        "step": 4,
+        "title": "Upload Documents",
+        "description": "Fill in the application form and upload all required documents."
+      },
+      {
+        "step": 5,
+        "title": "Submit Application",
+        "description": "Submit the completed application online."
+      },
+      {
+        "step": 6,
+        "title": "Track Status",
+        "description": "Track the application status online. Updates are sent to the registered mobile number."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Identity proof of the worker."
+    },
+    {
+      "name": "Passport-size Photograph",
+      "mandatory": true,
+      "remarks": "Recent passport-size photograph."
+    },
+    {
+      "name": "Skill Upgradation Training Certificate",
+      "mandatory": true,
+      "remarks": "Proof of completion of skill upgradation training."
+    },
+    {
+      "name": "Residence Proof",
+      "mandatory": true,
+      "remarks": "Proof of residence."
+    },
+    {
+      "name": "Ration Card",
+      "mandatory": true,
+      "remarks": "Supporting identity/residence document."
+    },
+    {
+      "name": "Bank Passbook / Bank Account Details",
+      "mandatory": true,
+      "remarks": "Required for Direct Benefit Transfer (DBT)."
+    },
+    {
+      "name": "Caste Certificate",
+      "mandatory": false,
+      "remarks": "Required if applicable."
+    },
+    {
+      "name": "Undertaking / Declaration",
+      "mandatory": true,
+      "remarks": "Self-declaration as prescribed."
+    },
+    {
+      "name": "Other Supporting Documents",
+      "mandatory": false,
+      "remarks": "Any additional documents required by the department."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "Only registered construction workers with active membership are eligible.",
+    "Completion of skill upgradation training is mandatory.",
+    "Maximum financial assistance under the scheme is ₹15,000.",
+    "Applicants can track their application status online through the BBOCWWB portal."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Registered construction workers with active BBOCWWB membership who have completed skill upgradation training."
+    },
+    {
+      "question": "What is the maximum financial assistance available?",
+      "answer": "Eligible workers can receive financial assistance of up to ₹15,000."
+    },
+    {
+      "question": "Is skill upgradation training mandatory?",
+      "answer": "Yes. Only workers who have completed skill upgradation training are eligible."
+    },
+    {
+      "question": "How can I apply?",
+      "answer": "Applications can be submitted through the official BBOCWWB portal after logging into the worker account."
+    },
+    {
+      "question": "Can I track my application?",
+      "answer": "Yes. Application status can be tracked online, and updates are sent to the registered mobile number."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

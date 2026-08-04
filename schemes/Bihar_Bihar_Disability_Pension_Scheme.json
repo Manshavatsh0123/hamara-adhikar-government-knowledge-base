@@ -1,0 +1,187 @@
+{
+  "id": 16,
+  "scheme_code": "",
+
+  "scheme_name": "Bihar Disability Pension Scheme",
+
+  "state": "Bihar",
+
+  "department": "Social Welfare Department",
+
+  "categories": [
+    "Disability",
+    "Pension",
+    "PwD",
+    "Social Security",
+    "Financial Assistance"
+  ],
+
+  "description": "The Bihar Disability Pension Scheme is implemented by the Social Welfare Department, Government of Bihar, to provide financial assistance to persons with disabilities who are not covered under the Indira Gandhi National Disability Pension Scheme. Under this scheme, eligible beneficiaries with at least 40% disability receive a monthly pension of ₹400 through Direct Benefit Transfer (DBT), irrespective of their age or annual income.",
+
+  "objectives": [
+    "Provide social security to persons with disabilities in Bihar.",
+    "Offer monthly financial assistance to differently-abled individuals.",
+    "Support persons with disabilities who are not covered under the Indira Gandhi National Disability Pension Scheme.",
+    "Ensure transparent pension disbursement through Direct Benefit Transfer (DBT)."
+  ],
+
+  "benefits": [
+    {
+      "title": "Monthly Pension",
+      "description": "Eligible beneficiaries receive a monthly pension of ₹400."
+    },
+    {
+      "title": "Direct Benefit Transfer (DBT)",
+      "description": "The pension amount is transferred directly to the beneficiary's bank account through the Public Financial Management System (PFMS)."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant must be a resident of Bihar or must have been residing in Bihar for at least the past 10 years."
+    },
+    {
+      "title": "Disability",
+      "description": "The applicant must be physically disabled and possess a disability certificate showing at least 40% disability."
+    },
+    {
+      "title": "Age",
+      "description": "There is no minimum or maximum age limit."
+    },
+    {
+      "title": "Income",
+      "description": "There is no upper limit on annual income."
+    },
+    {
+      "title": "Other Pension",
+      "description": "The applicant should not be receiving benefits under any other social security pension scheme."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Offline",
+
+    "registration_steps": [],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Submit Application",
+        "description": "Submit the duly filled application form along with the required documents at the RTPS counter located at the concerned Block Office."
+      },
+      {
+        "step": 2,
+        "title": "Receive Acknowledgement",
+        "description": "Collect the acknowledgement receipt issued by the RTPS counter for future reference."
+      },
+      {
+        "step": 3,
+        "title": "Verification",
+        "description": "The concerned authorities verify the application and supporting documents."
+      },
+      {
+        "step": 4,
+        "title": "Approval Notification",
+        "description": "Applicants are informed about approval or rejection through SMS or email."
+      },
+      {
+        "step": 5,
+        "title": "Collect Sanction Order",
+        "description": "If approved, collect the sanction order from the RTPS counter by presenting the acknowledgement receipt and valid identity proof."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Identity proof of the applicant."
+    },
+    {
+      "name": "Passport-size Photograph",
+      "mandatory": true,
+      "remarks": "Recent passport-size photograph."
+    },
+    {
+      "name": "Identity Proof",
+      "mandatory": true,
+      "remarks": "Voter ID Card, Driving Licence, or any valid government-issued identity proof."
+    },
+    {
+      "name": "Disability Certificate",
+      "mandatory": true,
+      "remarks": "Certificate showing at least 40% disability."
+    },
+    {
+      "name": "Caste Certificate",
+      "mandatory": false,
+      "remarks": "Required if applicable."
+    },
+    {
+      "name": "Residence Certificate / Address Proof",
+      "mandatory": true,
+      "remarks": "Proof of residence in Bihar."
+    },
+    {
+      "name": "Bank Passbook / Bank Account Details",
+      "mandatory": true,
+      "remarks": "Required for Direct Benefit Transfer (DBT)."
+    },
+    {
+      "name": "Other Supporting Documents",
+      "mandatory": false,
+      "remarks": "Any additional documents required by the concerned authority."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "18003456262",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The scheme is meant only for persons with disabilities who are not covered under the Indira Gandhi National Disability Pension Scheme.",
+    "A minimum disability of 40% is required.",
+    "There is no age limit or income ceiling under this scheme.",
+    "Pension is credited directly to the beneficiary's bank account through DBT using PFMS.",
+    "Grievances can be registered through the SSPMIS portal or by calling the toll-free helpline 18003456262."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who is eligible for the Bihar Disability Pension Scheme?",
+      "answer": "Residents of Bihar (or those residing in Bihar for at least 10 years) with at least 40% disability who are not receiving any other social security pension."
+    },
+    {
+      "question": "How much pension is provided?",
+      "answer": "Eligible beneficiaries receive a monthly pension of ₹400."
+    },
+    {
+      "question": "Is there any age limit to apply?",
+      "answer": "No. There is no minimum or maximum age limit under the scheme."
+    },
+    {
+      "question": "Is there any income limit?",
+      "answer": "No. There is no upper annual income limit for availing benefits under this scheme."
+    },
+    {
+      "question": "How is the pension amount paid?",
+      "answer": "The pension is transferred directly to the beneficiary's bank account through Direct Benefit Transfer (DBT) using PFMS."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

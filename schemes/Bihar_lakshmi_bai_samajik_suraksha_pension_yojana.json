@@ -1,0 +1,195 @@
+{
+  "id": 30,
+  "scheme_code": "",
+
+  "scheme_name": "Lakshmi Bai Samajik Suraksha Pension Yojana",
+
+  "state": "Bihar",
+
+  "department": "Social Welfare Department",
+
+  "categories": [
+    "Social Security",
+    "Women Welfare",
+    "Widow Pension",
+    "Financial Assistance"
+  ],
+
+  "description": "The Lakshmi Bai Samajik Suraksha Pension Yojana is implemented by the Social Welfare Department, Government of Bihar, to provide financial assistance to widowed women living below the poverty line. Under the scheme, eligible widows receive a monthly pension to support their livelihood and improve their social and economic security.",
+
+  "objectives": [
+    "Provide social security to widowed women.",
+    "Provide monthly financial assistance to widows belonging to Below Poverty Line (BPL) families.",
+    "Improve the social and economic security of eligible beneficiaries."
+  ],
+
+  "benefits": [
+    {
+      "title": "Monthly Pension",
+      "description": "Eligible beneficiaries receive a monthly pension of ₹300."
+    },
+    {
+      "title": "Direct Benefit Transfer (DBT)",
+      "description": "The pension amount is directly transferred to the beneficiary's bank account through DBT."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant must be a resident of Bihar."
+    },
+    {
+      "title": "Gender",
+      "description": "The applicant must be a female."
+    },
+    {
+      "title": "Marital Status",
+      "description": "The applicant must be a widow."
+    },
+    {
+      "title": "Economic Status",
+      "description": "The applicant must belong to a Below Poverty Line (BPL) family with an annual family income not exceeding ₹60,000."
+    },
+    {
+      "title": "Age",
+      "description": "The applicant must be at least 18 years of age."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Online / Offline",
+
+    "registration_steps": [],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Visit Portal or Office",
+        "description": "Visit the official Social Security Pension portal or the concerned government office."
+      },
+      {
+        "step": 2,
+        "title": "Select Scheme",
+        "description": "Choose 'Lakshmi Bai Samajik Suraksha Pension Yojana' from the available pension schemes."
+      },
+      {
+        "step": 3,
+        "title": "Fill Application Form",
+        "description": "Enter personal, address, and bank account details."
+      },
+      {
+        "step": 4,
+        "title": "Upload Documents",
+        "description": "Upload or attach all the required supporting documents."
+      },
+      {
+        "step": 5,
+        "title": "Submit Application",
+        "description": "Accept the declaration, submit the application, and keep the acknowledgment/application number for future reference."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Identity proof."
+    },
+    {
+      "name": "Address Proof",
+      "mandatory": true,
+      "remarks": "Proof of residence."
+    },
+    {
+      "name": "BPL Ration Card",
+      "mandatory": true,
+      "remarks": "Proof of BPL status."
+    },
+    {
+      "name": "Age Proof",
+      "mandatory": true,
+      "remarks": ""
+    },
+    {
+      "name": "Income Certificate",
+      "mandatory": true,
+      "remarks": "Annual family income should not exceed ₹60,000."
+    },
+    {
+      "name": "Husband's Death Certificate",
+      "mandatory": true,
+      "remarks": "Proof of widow status."
+    },
+    {
+      "name": "Identity Proof",
+      "mandatory": true,
+      "remarks": "Any valid government-issued identity proof."
+    },
+    {
+      "name": "Bank Passbook or Bank Account Details",
+      "mandatory": true,
+      "remarks": "Required for Direct Benefit Transfer (DBT)."
+    },
+    {
+      "name": "Mobile Number",
+      "mandatory": true,
+      "remarks": "For communication regarding the application."
+    },
+    {
+      "name": "Email ID",
+      "mandatory": false,
+      "remarks": "If available."
+    },
+    {
+      "name": "Passport-size Photograph",
+      "mandatory": true,
+      "remarks": "Recent passport-size photograph."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The pension amount is ₹300 per month.",
+    "Financial assistance is provided through Direct Benefit Transfer (DBT).",
+    "Only widowed women belonging to Below Poverty Line (BPL) families are eligible.",
+    "Applicants must provide a valid bank account to receive pension benefits."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Widowed women who are residents of Bihar and belong to Below Poverty Line (BPL) families."
+    },
+    {
+      "question": "What is the monthly pension amount?",
+      "answer": "Eligible beneficiaries receive ₹300 per month."
+    },
+    {
+      "question": "How is the pension paid?",
+      "answer": "The pension is transferred directly to the beneficiary's bank account through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "Is there an income limit?",
+      "answer": "Yes. The annual family income should not exceed ₹60,000."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

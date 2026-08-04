@@ -1,0 +1,158 @@
+{
+  "id": 21,
+  "scheme_code": "",
+
+  "scheme_name": "Samekit Baal Vikas Chhtra Yojana: Dress for Pre-school Children",
+
+  "state": "Bihar",
+
+  "department": "Social Welfare Department",
+
+  "categories": [
+    "Anganwadi",
+    "Pre-school",
+    "Uniform",
+    "Child Welfare",
+    "Education"
+  ],
+
+  "description": "The 'Dress for Pre-school Children' scheme is a component of the Samekit Baal Vikas Chhtra Yojana implemented by the Social Welfare Department, Government of Bihar. Under this state-sponsored scheme, financial assistance of ₹400 per child per year is provided to children aged 3 to 6 years enrolled in Anganwadi Centres for purchasing uniforms. The scheme aims to promote a distinct identity, uniformity, and social harmony among children receiving pre-school education.",
+
+  "objectives": [
+    "Provide financial assistance for uniforms to children enrolled in Anganwadi Centres.",
+    "Promote uniformity and social harmony among pre-school children.",
+    "Create a distinct identity for children attending Anganwadi Centres.",
+    "Support early childhood education in Bihar."
+  ],
+
+  "benefits": [
+    {
+      "title": "Uniform Assistance",
+      "description": "Financial assistance of ₹400 per child per year is provided for purchasing uniforms."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The beneficiary should be a resident of Bihar."
+    },
+    {
+      "title": "Child",
+      "description": "The beneficiary should be a child."
+    },
+    {
+      "title": "Age",
+      "description": "The beneficiary should be between 3 and 6 years of age."
+    },
+    {
+      "title": "Anganwadi Enrollment",
+      "description": "The beneficiary should be enrolled at an Anganwadi Centre."
+    },
+    {
+      "title": "Pre-school Education",
+      "description": "The beneficiary should be receiving pre-school education at the Anganwadi Centre."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Offline",
+
+    "registration_steps": [],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Visit Anganwadi Centre",
+        "description": "Visit the nearest Anganwadi Centre."
+      },
+      {
+        "step": 2,
+        "title": "Register Child",
+        "description": "Register the child's name at the Anganwadi Centre."
+      },
+      {
+        "step": 3,
+        "title": "Verification",
+        "description": "The Anganwadi Centre verifies the eligibility of the child."
+      },
+      {
+        "step": 4,
+        "title": "Benefit Distribution",
+        "description": "Eligible beneficiaries receive ₹400 per year for uniforms."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Aadhaar Card of Parent(s)",
+      "mandatory": true,
+      "remarks": "Identity proof of the parent or guardian."
+    },
+    {
+      "name": "Birth Certificate of Child",
+      "mandatory": true,
+      "remarks": "Proof of age of the child."
+    },
+    {
+      "name": "Address Proof",
+      "mandatory": true,
+      "remarks": "Proof of residence in Bihar."
+    },
+    {
+      "name": "Additional Supporting Documents",
+      "mandatory": false,
+      "remarks": "Any other documents required by the concerned authority."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The scheme is a component of the Samekit Baal Vikas Chhtra Yojana.",
+    "The scheme is fully sponsored by the Government of Bihar.",
+    "Financial assistance of ₹400 is provided once every year per eligible child.",
+    "Only children enrolled in Anganwadi Centres and receiving pre-school education are eligible.",
+    "Complaints may be submitted to ICDS authorities, Child Development Project Officers, District Programme Officers, or Public Grievance Redressal Officers."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who can benefit from this scheme?",
+      "answer": "Children aged 3 to 6 years enrolled in Anganwadi Centres and receiving pre-school education."
+    },
+    {
+      "question": "How much financial assistance is provided?",
+      "answer": "Eligible children receive ₹400 per year for purchasing uniforms."
+    },
+    {
+      "question": "How can I apply?",
+      "answer": "Parents or guardians should register the child's name at the nearest Anganwadi Centre."
+    },
+    {
+      "question": "Is this a state-sponsored scheme?",
+      "answer": "Yes. The scheme is fully sponsored by the Government of Bihar."
+    },
+    {
+      "question": "Which documents are required?",
+      "answer": "Aadhaar card of the parent(s), birth certificate of the child, address proof, and any additional documents if required."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

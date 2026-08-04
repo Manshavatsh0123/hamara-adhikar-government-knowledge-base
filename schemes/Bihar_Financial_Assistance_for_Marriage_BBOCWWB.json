@@ -1,0 +1,252 @@
+{
+  "id": 7,
+  "scheme_code": "",
+
+  "scheme_name": "Financial Assistance for Marriage (BBOCWWB)",
+
+  "state": "Bihar",
+
+  "department": "Bihar Building & Other Construction Workers Welfare Board (BBOCWWB), Labour Resources Department",
+
+  "categories": [
+    "Building Worker",
+    "Construction Worker",
+    "Financial Assistance",
+    "Labour",
+    "Marriage",
+    "Unorganized Workers"
+  ],
+
+  "description": "The Financial Assistance for Marriage Scheme is implemented by the Bihar Building & Other Construction Workers Welfare Board (BBOCWWB), Labour Resources Department, Government of Bihar. The scheme provides financial assistance of ₹50,000 to registered construction workers who have maintained continuous membership with the Board for at least three years. The assistance is available for the marriage of up to two adult daughters of registered workers and for the marriage of a registered female worker herself. The benefit is over and above the assistance available under the Antarjatiye Vivah Protsahan Anudan Yojana.",
+
+  "objectives": [
+    "Provide financial assistance to registered construction workers for marriage-related expenses.",
+    "Support the marriage of up to two adult daughters of eligible workers.",
+    "Provide financial support for the marriage of registered female workers.",
+    "Promote the social welfare and financial security of construction workers."
+  ],
+
+  "benefits": [
+    {
+      "title": "Marriage Financial Assistance",
+      "description": "Financial assistance of ₹50,000 is provided for the marriage of up to two adult daughters of registered workers."
+    },
+    {
+      "title": "Marriage Assistance for Female Worker",
+      "description": "A registered female worker is eligible for ₹50,000 financial assistance for her own marriage."
+    },
+    {
+      "title": "Additional Benefit",
+      "description": "The assistance is provided in addition to benefits available under the Antarjatiye Vivah Protsahan Anudan Yojana."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Occupation",
+      "description": "The applicant must be engaged in building or construction work."
+    },
+    {
+      "title": "Board Registration",
+      "description": "The applicant must be registered with the Bihar Building & Other Construction Workers Welfare Board (BBOCWWB)."
+    },
+    {
+      "title": "Membership Duration",
+      "description": "The applicant must have maintained continuous membership with the Board for at least three years."
+    },
+    {
+      "title": "Active Membership",
+      "description": "The applicant's membership must be active at the time of application."
+    },
+    {
+      "title": "Eligible Beneficiaries",
+      "description": "Registered male and female workers can claim assistance for the marriage of up to two adult daughters. Registered female workers are also eligible for assistance for their own marriage."
+    },
+    {
+      "title": "Remarriage",
+      "description": "Workers applying for remarriage are not eligible under this scheme."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Online",
+
+    "registration_steps": [
+      {
+        "step": 1,
+        "title": "Visit Official Website",
+        "description": "Visit the official website of the Bihar Building & Other Construction Workers Welfare Board."
+      },
+      {
+        "step": 2,
+        "title": "Open Labour Registration",
+        "description": "Click on 'Labour Registration' and select 'Apply for New Registration'."
+      },
+      {
+        "step": 3,
+        "title": "Authenticate Aadhaar",
+        "description": "Enter Aadhaar number and applicant name, then complete authentication."
+      },
+      {
+        "step": 4,
+        "title": "Fill Registration Form",
+        "description": "Complete all mandatory fields in the registration form."
+      },
+      {
+        "step": 5,
+        "title": "Pay Registration Fee",
+        "description": "Submit the application and pay the prescribed registration fee online."
+      },
+      {
+        "step": 6,
+        "title": "Receive Registration Number",
+        "description": "Upon successful registration, receive the construction worker registration number."
+      }
+    ],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Login to Scheme Portal",
+        "description": "Visit the official BBOCWWB website."
+      },
+      {
+        "step": 2,
+        "title": "Select Scheme Application",
+        "description": "Click on 'Scheme Application' and choose 'Apply for Scheme'."
+      },
+      {
+        "step": 3,
+        "title": "Enter Registration Number",
+        "description": "Enter the construction worker registration number to fetch applicant details."
+      },
+      {
+        "step": 4,
+        "title": "Choose Scheme",
+        "description": "Select the Financial Assistance for Marriage Scheme."
+      },
+      {
+        "step": 5,
+        "title": "Upload Documents",
+        "description": "Fill in the application form and upload the required documents."
+      },
+      {
+        "step": 6,
+        "title": "Submit Application",
+        "description": "Submit the application online."
+      },
+      {
+        "step": 7,
+        "title": "Track Application",
+        "description": "Track the application status online. Updates will also be sent to the registered mobile number."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Aadhaar Card of Worker",
+      "mandatory": true,
+      "remarks": "Identity proof of the registered worker."
+    },
+    {
+      "name": "Identity Proof of Daughter",
+      "mandatory": false,
+      "remarks": "Required when applying for the marriage of a daughter."
+    },
+    {
+      "name": "Photograph",
+      "mandatory": true,
+      "remarks": "Photo of the daughter with the applicant or passport-size photograph of the female applicant."
+    },
+    {
+      "name": "Age Proof",
+      "mandatory": false,
+      "remarks": "Required for the daughter if applying for her marriage."
+    },
+    {
+      "name": "Proof of Marriage",
+      "mandatory": true,
+      "remarks": "Marriage photograph, invitation card, marriage certificate, or certificate issued by the Marriage Registrar."
+    },
+    {
+      "name": "Residence Proof",
+      "mandatory": true,
+      "remarks": "Valid proof of residence."
+    },
+    {
+      "name": "Ration Card",
+      "mandatory": true,
+      "remarks": ""
+    },
+    {
+      "name": "Bank Passbook / Bank Account Details",
+      "mandatory": true,
+      "remarks": "Copy of the first page of the bank passbook or bank account details."
+    },
+    {
+      "name": "Caste Certificate",
+      "mandatory": false,
+      "remarks": "Applicable if required."
+    },
+    {
+      "name": "Undertaking / Declaration",
+      "mandatory": true,
+      "remarks": "Declaration as prescribed by the Board."
+    },
+    {
+      "name": "Other Supporting Documents",
+      "mandatory": false,
+      "remarks": "Any additional documents required by the Board."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The applicant must have maintained continuous Board membership for at least three years.",
+    "The benefit is available only for the marriage of up to two adult daughters and for the marriage of a registered female worker.",
+    "Workers applying for remarriage are not eligible.",
+    "The financial assistance is in addition to the Antarjatiye Vivah Protsahan Anudan Yojana.",
+    "Application status can be tracked online through the BBOCWWB portal."
+  ],
+
+  "faqs": [
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "Eligible beneficiaries receive ₹50,000 as financial assistance."
+    },
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Registered construction workers who have maintained active membership with the BBOCWWB for at least three years."
+    },
+    {
+      "question": "Can a female worker apply for her own marriage?",
+      "answer": "Yes. A registered female worker is eligible for financial assistance for her own marriage."
+    },
+    {
+      "question": "Is remarriage covered under this scheme?",
+      "answer": "No. Workers applying for remarriage are not eligible."
+    },
+    {
+      "question": "Can the application status be tracked?",
+      "answer": "Yes. Applicants can track their application online through the official BBOCWWB portal."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

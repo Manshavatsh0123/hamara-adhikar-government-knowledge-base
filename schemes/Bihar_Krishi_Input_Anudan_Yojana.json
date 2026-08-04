@@ -1,0 +1,256 @@
+{
+  "id": 6,
+  "scheme_code": "",
+
+  "scheme_name": "Krishi Input Anudan Yojana",
+
+  "state": "Bihar",
+
+  "department": "Department of Agriculture",
+
+  "categories": [
+    "Agriculture",
+    "Crop Damage",
+    "Flood Relief",
+    "Financial Assistance",
+    "Subsidy"
+  ],
+
+  "description": "Krishi Input Anudan Yojana is a relief scheme launched by the Department of Agriculture, Government of Bihar, to provide agricultural input subsidies to farmers whose crops have suffered more than 33% damage due to heavy rainfall, floods, or an unexpected rise in the water level of rivers such as the Ganga and Kosi. The scheme helps eligible farmers recover crop losses by providing financial assistance based on the type of cultivated land.",
+
+  "objectives": [
+    "Provide agricultural input subsidies to farmers affected by floods and heavy rainfall.",
+    "Reduce the financial burden caused by crop losses.",
+    "Support farmers in restoring agricultural activities after natural disasters.",
+    "Ensure timely financial assistance to genuine cultivators."
+  ],
+
+  "benefits": [
+    {
+      "title": "Subsidy for Non-Irrigated Crops",
+      "description": "₹8,500 per hectare for non-irrigated (rainfed/year-dependent) crop areas."
+    },
+    {
+      "title": "Subsidy for Irrigated Crops",
+      "description": "₹17,000 per hectare for irrigated crop areas."
+    },
+    {
+      "title": "Subsidy for Perennial Crops",
+      "description": "₹22,500 per hectare for perennial/permanent crops."
+    },
+    {
+      "title": "Minimum Assistance",
+      "description": "Minimum assistance payable is ₹1,000 for non-irrigated crops, ₹2,000 for irrigated crops, and ₹2,500 for perennial crops."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Farmer",
+      "description": "The applicant must be a farmer."
+    },
+    {
+      "title": "Eligible Area",
+      "description": "The applicant should belong to the notified Panchayats of identified blocks in the specified districts."
+    },
+    {
+      "title": "DBT Registration",
+      "description": "The applicant must be registered on the Bihar DBT portal."
+    },
+    {
+      "title": "Aadhaar Linked Bank Account",
+      "description": "The applicant's bank account must be linked with Aadhaar."
+    },
+    {
+      "title": "Actual Cultivator",
+      "description": "Farmers cultivating land belonging to others are also eligible after verification as actual cultivators through joint certification by the Agriculture Coordinator and Farmer Advisor."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Online",
+
+    "registration_steps": [
+      {
+        "step": 1,
+        "title": "Visit DBT Portal",
+        "description": "Visit the Bihar DBT farmer registration portal."
+      },
+      {
+        "step": 2,
+        "title": "Verify Aadhaar",
+        "description": "Select Aadhaar authentication mode (OTP/BIO-AUTH/IRIS) and authenticate using Aadhaar details."
+      },
+      {
+        "step": 3,
+        "title": "Validate OTP",
+        "description": "Enter the OTP received on the registered mobile number."
+      },
+      {
+        "step": 4,
+        "title": "Confirm KCC Details",
+        "description": "Verify Kisan Credit Card details and proceed with farmer registration."
+      },
+      {
+        "step": 5,
+        "title": "Fill Registration Form",
+        "description": "Enter farmer details, land information, and bank account details."
+      },
+      {
+        "step": 6,
+        "title": "Submit Registration",
+        "description": "Complete OTP validation and generate the 13-digit DBT Registration ID."
+      },
+      {
+        "step": 7,
+        "title": "Wait for Activation",
+        "description": "After 48 hours, use the DBT Registration Number to apply for the scheme."
+      }
+    ],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Visit Official Website",
+        "description": "Visit the official Agriculture Department portal."
+      },
+      {
+        "step": 2,
+        "title": "Apply Online",
+        "description": "Click on the 'Apply Online' option."
+      },
+      {
+        "step": 3,
+        "title": "Select Scheme",
+        "description": "Choose the Agricultural Input Subsidy Scheme for flood-related crop damage from the dropdown list."
+      },
+      {
+        "step": 4,
+        "title": "Enter Registration Number",
+        "description": "Enter the 13-digit DBT Registration Number and fill in the required details."
+      },
+      {
+        "step": 5,
+        "title": "OTP Verification",
+        "description": "Enter the captcha, generate OTP, and verify it."
+      },
+      {
+        "step": 6,
+        "title": "Upload Documents",
+        "description": "Upload the required documents and submit the application."
+      },
+      {
+        "step": 7,
+        "title": "Receive Application Number",
+        "description": "The application number will be sent to the registered mobile number via SMS."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Must be linked with the registered mobile number."
+    },
+    {
+      "name": "Passport Size Photograph",
+      "mandatory": true,
+      "remarks": "Required during DBT registration and scheme application."
+    },
+    {
+      "name": "Farmer Details",
+      "mandatory": true,
+      "remarks": "Required for DBT registration."
+    },
+    {
+      "name": "Land Information",
+      "mandatory": true,
+      "remarks": "Required for DBT registration."
+    },
+    {
+      "name": "Bank Account Details",
+      "mandatory": true,
+      "remarks": "Required for DBT registration."
+    },
+    {
+      "name": "Police Station Number",
+      "mandatory": true,
+      "remarks": "Required during scheme application."
+    },
+    {
+      "name": "Bank Account Number",
+      "mandatory": true,
+      "remarks": ""
+    },
+    {
+      "name": "Khesra Number",
+      "mandatory": true,
+      "remarks": "Land plot identification number."
+    },
+    {
+      "name": "Land Document or Land Possession Certificate (LPC)",
+      "mandatory": true,
+      "remarks": "Submit revenue receipt, Jamabandi, or LPC."
+    },
+    {
+      "name": "Crop Damage Details",
+      "mandatory": true,
+      "remarks": "Details of crop damage caused by floods."
+    },
+    {
+      "name": "Adjacent Farmers' Verification",
+      "mandatory": true,
+      "remarks": "Details and signatures of two adjacent farmers along with verification documents."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "Crop damage must exceed 33% to claim benefits.",
+    "Only farmers from notified Panchayats and identified blocks are eligible.",
+    "DBT registration is mandatory before applying.",
+    "Applications can be submitted only after 48 hours of successful DBT registration.",
+    "Actual cultivators farming on leased or others' land are eligible after verification by the Agriculture Coordinator and Farmer Advisor."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who can apply for the Krishi Input Anudan Yojana?",
+      "answer": "Eligible farmers from notified areas of Bihar who are registered on the DBT portal and whose crops have suffered more than 33% damage due to floods or heavy rainfall."
+    },
+    {
+      "question": "What is the subsidy for irrigated crop areas?",
+      "answer": "Eligible farmers receive ₹17,000 per hectare for irrigated crop areas."
+    },
+    {
+      "question": "Is DBT registration mandatory?",
+      "answer": "Yes. Farmers must complete registration on the Bihar DBT portal before applying."
+    },
+    {
+      "question": "Can farmers cultivating leased land apply?",
+      "answer": "Yes. Actual cultivators are eligible after verification by the Agriculture Coordinator and Farmer Advisor."
+    },
+    {
+      "question": "What is the minimum crop damage required?",
+      "answer": "The crop damage must be more than 33% due to heavy rainfall or flooding."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "id": 25,
+  "scheme_code": "",
+
+  "scheme_name": "Indira Gandhi National Widow Pension Scheme",
+
+  "state": "Bihar",
+
+  "department": "Social Welfare Department",
+
+  "categories": [
+    "Social Welfare",
+    "Pension",
+    "Widow",
+    "BPL",
+    "Women"
+  ],
+
+  "description": "The Indira Gandhi National Widow Pension Scheme (IGNWPS) is implemented by the Social Welfare Department, Government of Bihar under the National Social Assistance Programme (NSAP). The scheme provides a monthly pension to widows aged 40 to 79 years belonging to Below Poverty Line (BPL) families. The pension amount is transferred directly to the beneficiary's bank account through the Direct Benefit Transfer (DBT) system using the Public Financial Management System (PFMS).",
+
+  "objectives": [
+    "Provide social security to widows belonging to Below Poverty Line (BPL) families.",
+    "Provide monthly financial assistance to eligible widows.",
+    "Ensure timely pension payment through the Direct Benefit Transfer (DBT) system.",
+    "Improve the financial stability of economically vulnerable widows."
+  ],
+
+  "benefits": [
+    {
+      "title": "Monthly Pension",
+      "description": "Eligible beneficiaries receive a monthly pension of ₹400."
+    },
+    {
+      "title": "Direct Benefit Transfer",
+      "description": "The pension amount is transferred directly to the beneficiary's bank account through the Public Financial Management System (PFMS)."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant must be a resident of Bihar."
+    },
+    {
+      "title": "Gender",
+      "description": "The applicant must be a female."
+    },
+    {
+      "title": "Marital Status",
+      "description": "The applicant must be a widow."
+    },
+    {
+      "title": "Age Limit",
+      "description": "The applicant should be between 40 and 79 years of age."
+    },
+    {
+      "title": "Economic Status",
+      "description": "The applicant must belong to a Below Poverty Line (BPL) family."
+    },
+    {
+      "title": "Other Condition",
+      "description": "The applicant must not be receiving benefits under any other social security pension scheme."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Offline",
+
+    "registration_steps": [],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Visit RTPS Counter",
+        "description": "Visit the Right to Public Service (RTPS) counter at the concerned Block Office."
+      },
+      {
+        "step": 2,
+        "title": "Submit Application",
+        "description": "Submit the prescribed application form along with all required supporting documents."
+      },
+      {
+        "step": 3,
+        "title": "Collect Acknowledgement",
+        "description": "Collect the acknowledgment receipt after submission."
+      },
+      {
+        "step": 4,
+        "title": "Application Verification",
+        "description": "The concerned authorities will verify the submitted application."
+      },
+      {
+        "step": 5,
+        "title": "Receive Status",
+        "description": "Applicants will receive approval or rejection information through SMS or email."
+      },
+      {
+        "step": 6,
+        "title": "Collect Sanction Order",
+        "description": "If approved, collect the Sanction Order from the RTPS counter using the acknowledgment receipt and identity proof."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Identity proof."
+    },
+    {
+      "name": "Passport-size Photograph",
+      "mandatory": true,
+      "remarks": "Recent passport-size photograph."
+    },
+    {
+      "name": "Identity Proof",
+      "mandatory": true,
+      "remarks": "Voter ID, Driving Licence, or any other valid identity proof."
+    },
+    {
+      "name": "Death Certificate of Husband",
+      "mandatory": true,
+      "remarks": "Proof of widow status."
+    },
+    {
+      "name": "Residence Proof",
+      "mandatory": true,
+      "remarks": "Proof of residence in Bihar."
+    },
+    {
+      "name": "Age Proof",
+      "mandatory": true,
+      "remarks": "Valid age proof document."
+    },
+    {
+      "name": "BPL Card or Related Documents",
+      "mandatory": true,
+      "remarks": "Proof of Below Poverty Line (BPL) status."
+    },
+    {
+      "name": "Caste Certificate",
+      "mandatory": false,
+      "remarks": "Required if applicable."
+    },
+    {
+      "name": "Bank Passbook or Bank Account Details",
+      "mandatory": true,
+      "remarks": "Required for Direct Benefit Transfer (DBT)."
+    },
+    {
+      "name": "Other Supporting Documents",
+      "mandatory": false,
+      "remarks": "Any additional documents required by the department."
+    }
+  ],
+
+  "official_source": {
+    "website": "https://www.sspmis.bihar.gov.in/",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "18003456262",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The scheme is centrally sponsored under the National Social Assistance Programme (NSAP).",
+    "The pension amount is credited directly into the beneficiary's bank account through PFMS.",
+    "Applicants must belong to a Below Poverty Line (BPL) family.",
+    "Applicants cannot receive benefits under another social security pension scheme simultaneously."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Widows who are residents of Bihar, belong to BPL families, and are between 40 and 79 years of age."
+    },
+    {
+      "question": "How much pension is provided?",
+      "answer": "Eligible beneficiaries receive a monthly pension of ₹400."
+    },
+    {
+      "question": "How is the pension paid?",
+      "answer": "The pension is transferred directly to the beneficiary's bank account through the Direct Benefit Transfer (DBT) system using PFMS."
+    },
+    {
+      "question": "Can a beneficiary receive another social security pension?",
+      "answer": "No. Applicants receiving benefits under another social security pension scheme are not eligible."
+    },
+    {
+      "question": "Where can applicants submit their application?",
+      "answer": "Applications can be submitted at the RTPS counter of the concerned Block Office."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

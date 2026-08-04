@@ -1,0 +1,196 @@
+{
+  "id": 28,
+  "scheme_code": "",
+
+  "scheme_name": "Bihar State Alpsankhyak Awasiya Vidyalaya Yojana",
+
+  "state": "Bihar",
+
+  "department": "Minority Welfare Department",
+
+  "categories": [
+    "Education",
+    "Residential School",
+    "Minority Welfare",
+    "Student Welfare",
+    "Free Education"
+  ],
+
+  "description": "The Bihar State Alpsankhyak Awasiya Vidyalaya Yojana is implemented by the Minority Welfare Department, Government of Bihar. The scheme aims to provide quality residential education to meritorious students belonging to minority communities. It offers free education from Class 9 to Class 12 along with residential facilities, food, clothing, books, medical support, and vocational training to promote the overall development of students.",
+
+  "objectives": [
+    "Provide quality residential education to meritorious students belonging to minority communities.",
+    "Offer free education from Class 9 to Class 12.",
+    "Support the holistic development of students through residential facilities and vocational training.",
+    "Reduce financial barriers to quality education for minority students."
+  ],
+
+  "benefits": [
+    {
+      "title": "Free Education",
+      "description": "Free education is provided from Class 9 to Class 12."
+    },
+    {
+      "title": "Free Residential Facilities",
+      "description": "Students receive free hostel accommodation, food, clothing, books, medicines, and admission."
+    },
+    {
+      "title": "Academic Support",
+      "description": "Modern laboratories, PCM, PCB, Arts streams, special coaching, and vocational training are provided."
+    },
+    {
+      "title": "Reservation Benefits",
+      "description": "50% of the total seats are reserved for girls, and 75% of seats in both boys' and girls' categories are reserved for rural students."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant must be a resident of Bihar."
+    },
+    {
+      "title": "Minority Community",
+      "description": "The applicant must belong to a recognized minority community."
+    },
+    {
+      "title": "Age Criteria",
+      "description": "The maximum age is 16 years for Class 9 admission and 18 years for Class 11 admission."
+    },
+    {
+      "title": "Income Limit",
+      "description": "The annual family income should not exceed ₹6,00,000."
+    },
+    {
+      "title": "Selection Process",
+      "description": "Admission is based on the merit list prepared from marks obtained in the qualifying examination."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Offline",
+
+    "registration_steps": [],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Obtain Application Form",
+        "description": "Visit the office of the District Minority Welfare Officer or download the application form from the department's website."
+      },
+      {
+        "step": 2,
+        "title": "Fill Application Form",
+        "description": "Complete the application form with all required details."
+      },
+      {
+        "step": 3,
+        "title": "Attach Documents",
+        "description": "Attach all required supporting documents."
+      },
+      {
+        "step": 4,
+        "title": "Submit Application",
+        "description": "Submit the completed application form personally or through registered post before the prescribed deadline."
+      },
+      {
+        "step": 5,
+        "title": "Collect Acknowledgement",
+        "description": "Collect and preserve the acknowledgement receipt for future reference."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Identity proof."
+    },
+    {
+      "name": "Passport-size Photograph",
+      "mandatory": true,
+      "remarks": "Recent passport-size photograph."
+    },
+    {
+      "name": "Marks Certificate",
+      "mandatory": true,
+      "remarks": "Qualifying examination marks certificate."
+    },
+    {
+      "name": "Birth Certificate or Age Proof",
+      "mandatory": true,
+      "remarks": "Proof of age."
+    },
+    {
+      "name": "Minority Community Certificate",
+      "mandatory": true,
+      "remarks": "Proof of minority community."
+    },
+    {
+      "name": "Address Proof",
+      "mandatory": true,
+      "remarks": "Proof of residence."
+    },
+    {
+      "name": "Income Certificate",
+      "mandatory": true,
+      "remarks": "Annual family income should not exceed ₹6,00,000."
+    },
+    {
+      "name": "Other Supporting Documents",
+      "mandatory": false,
+      "remarks": "Any additional documents required by the department."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The scheme provides free residential education from Class 9 to Class 12.",
+    "The schools follow a co-education system.",
+    "50% of the total seats are reserved for girl students.",
+    "75% of seats in both boys' and girls' categories are reserved for rural students.",
+    "Admission is strictly based on merit in the qualifying examination.",
+    "Students receive free accommodation, food, clothing, books, medicines, and vocational training."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Students belonging to recognized minority communities who are residents of Bihar and meet the eligibility criteria."
+    },
+    {
+      "question": "Is education free under this scheme?",
+      "answer": "Yes. Free education is provided from Class 9 to Class 12 along with residential facilities."
+    },
+    {
+      "question": "Is hostel accommodation provided?",
+      "answer": "Yes. Eligible students receive free hostel accommodation along with food, clothing, books, and medicines."
+    },
+    {
+      "question": "How are students selected?",
+      "answer": "Admission is based on the merit list prepared from marks obtained in the qualifying examination."
+    },
+    {
+      "question": "What is the maximum annual family income allowed?",
+      "answer": "The annual family income of the applicant should not exceed ₹6,00,000."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

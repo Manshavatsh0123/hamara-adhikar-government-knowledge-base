@@ -1,0 +1,126 @@
+{
+  "id": 29,
+  "scheme_code": "",
+
+  "scheme_name": "Jan Nayak Pustakalaya evam Digital Adhyan Kendra",
+
+  "state": "Bihar",
+
+  "department": "Backward Classes and Extremely Backward Classes Welfare Department",
+
+  "categories": [
+    "Education",
+    "Library",
+    "Digital Learning",
+    "Student Welfare",
+    "Backward Classes"
+  ],
+
+  "description": "The Jan Nayak Pustakalaya evam Digital Adhyan Kendra Scheme is implemented by the Backward Classes and Extremely Backward Classes Welfare Department, Government of Bihar. The scheme aims to transform Jan Nayak Karpoori Thakur Hostels, Other Backward Class Welfare Hostels, and OBC Girls' Hostels across Bihar into modern digital learning centres equipped with libraries, digital education facilities, competitive examination resources, and expert guidance. The initiative enhances access to quality educational resources, particularly for students from rural and remote areas.",
+
+  "objectives": [
+    "Ensure the availability of competitive examination books and quality study materials.",
+    "Provide quality education and academic guidance through digital learning facilities.",
+    "Organize motivational and career guidance sessions by experts and successful candidates.",
+    "Improve educational opportunities for OBC and EBC students residing in government hostels."
+  ],
+
+  "benefits": [
+    {
+      "title": "Library Facility",
+      "description": "Access to competitive examination books and quality study materials."
+    },
+    {
+      "title": "Digital Learning",
+      "description": "Digital learning facilities with educational resources and online study support."
+    },
+    {
+      "title": "Career Guidance",
+      "description": "Guidance sessions by subject experts and successful candidates."
+    },
+    {
+      "title": "Competitive Exam Support",
+      "description": "Preparation support for competitive examinations through quality resources and mentoring."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant must be a resident of Bihar."
+    },
+    {
+      "title": "Category",
+      "description": "The applicant must belong to the Other Backward Class (OBC) or Extremely Backward Class (EBC)."
+    },
+    {
+      "title": "Hostel Requirement",
+      "description": "The applicant must be residing in a notified Jan Nayak Karpoori Thakur Hostel, Other Backward Class Welfare Hostel, or OBC/EBC Girls Hostel."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Offline",
+
+    "registration_steps": [],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Visit Hostel",
+        "description": "Eligible students residing in notified hostels can directly access the library and digital learning centre."
+      },
+      {
+        "step": 2,
+        "title": "Use Facilities",
+        "description": "Students may use the available books, digital learning facilities, career guidance programmes, and competitive examination resources."
+      }
+    ]
+  },
+
+  "documents_required": [],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "No formal registration or application process is required.",
+    "Only students residing in notified Jan Nayak Karpoori Thakur Hostels, OBC Welfare Hostels, and OBC Girls' Hostels are eligible.",
+    "The scheme focuses on improving competitive examination preparation through modern learning infrastructure.",
+    "Students receive access to digital learning facilities, quality books, and expert mentoring."
+  ],
+
+  "faqs": [
+    {
+      "question": "Is registration required?",
+      "answer": "No. There is no separate registration or application process."
+    },
+    {
+      "question": "Who can use the library?",
+      "answer": "Students residing in notified Jan Nayak Karpoori Thakur Hostels, OBC Welfare Hostels, and OBC/EBC Girls Hostels."
+    },
+    {
+      "question": "Does the scheme provide digital learning?",
+      "answer": "Yes. Students get access to digital learning facilities and educational resources."
+    },
+    {
+      "question": "Does the scheme help with competitive exam preparation?",
+      "answer": "Yes. Students receive competitive examination books, study materials, and expert guidance."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

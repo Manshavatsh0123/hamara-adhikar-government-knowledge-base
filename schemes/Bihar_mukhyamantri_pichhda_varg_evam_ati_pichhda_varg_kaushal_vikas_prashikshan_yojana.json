@@ -1,0 +1,189 @@
+{
+  "id": 27,
+  "scheme_code": "",
+
+  "scheme_name": "Mukhyamantri Pichhda Varg Evam Ati Pichhda Varg Kaushal Vikas Prashikshan Yojana",
+
+  "state": "Bihar",
+
+  "department": "Backward Classes and Extremely Backward Classes Welfare Department",
+
+  "categories": [
+    "Skill Development",
+    "Employment",
+    "Training",
+    "Backward Classes",
+    "Extremely Backward Classes"
+  ],
+
+  "description": "The Mukhyamantri Pichhda Varg Evam Ati Pichhda Varg Kaushal Vikas Prashikshan Yojana is implemented by the Backward Classes and Extremely Backward Classes Welfare Department, Government of Bihar. The scheme aims to improve the employability and income-generating capacity of youth belonging to the Backward Class (BC) and Extremely Backward Class (EBC) communities through free domain-specific skill development training. Training is conducted through Bihar Skill Development Mission (BSDM) approved Skill Development Centres (SDCs), enabling beneficiaries to secure employment or become self-employed.",
+
+  "objectives": [
+    "Enhance the employability of BC and EBC youth.",
+    "Promote self-employment opportunities through skill development.",
+    "Provide free industry-oriented skill development training.",
+    "Improve income generation through certification and placement support."
+  ],
+
+  "benefits": [
+    {
+      "title": "Free Skill Training",
+      "description": "Free domain-specific skill development training in multiple industry sectors."
+    },
+    {
+      "title": "Industry Certification",
+      "description": "Certificate is issued after successful completion of training and assessment."
+    },
+    {
+      "title": "Placement Support",
+      "description": "Support for employment and self-employment is provided after successful completion of training."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant must be a resident of Bihar."
+    },
+    {
+      "title": "Category",
+      "description": "The applicant must belong to the Backward Class (BC) or Extremely Backward Class (EBC)."
+    },
+    {
+      "title": "Age Limit",
+      "description": "The applicant must be between 18 and 45 years of age."
+    },
+    {
+      "title": "Aadhaar Requirement",
+      "description": "The applicant must possess a valid Aadhaar number."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Offline",
+
+    "registration_steps": [
+      {
+        "step": 1,
+        "title": "Visit BSDM Website",
+        "description": "Visit the official Bihar Skill Development Mission (BSDM) website."
+      },
+      {
+        "step": 2,
+        "title": "Choose Training Centre",
+        "description": "Search for the nearest BSDM-approved Skill Development Centre (SDC) and select the desired course."
+      },
+      {
+        "step": 3,
+        "title": "Prepare Documents",
+        "description": "Collect and self-attest all required supporting documents."
+      }
+    ],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Visit Training Centre",
+        "description": "Visit the selected Skill Development Centre for document verification and registration."
+      },
+      {
+        "step": 2,
+        "title": "Portal Registration",
+        "description": "The Skill Development Centre uploads the applicant's details on the BSDM portal."
+      },
+      {
+        "step": 3,
+        "title": "Aadhaar Verification",
+        "description": "The applicant's Aadhaar details are digitally verified."
+      },
+      {
+        "step": 4,
+        "title": "Batch Approval",
+        "description": "After successful verification, the applicant is included in a training batch approved by the Bihar State Backward Classes Finance and Development Corporation."
+      },
+      {
+        "step": 5,
+        "title": "Training Begins",
+        "description": "Training is conducted by certified trainers at the Skill Development Centre."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Required for identity verification."
+    },
+    {
+      "name": "Income Certificate",
+      "mandatory": true,
+      "remarks": "Proof of annual family income."
+    },
+    {
+      "name": "Residential Certificate",
+      "mandatory": true,
+      "remarks": "Proof of residence in Bihar."
+    },
+    {
+      "name": "Caste Certificate",
+      "mandatory": true,
+      "remarks": "Required for BC/EBC applicants."
+    },
+    {
+      "name": "Other Supporting Documents",
+      "mandatory": false,
+      "remarks": "Any additional documents required by the department."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "Training is completely free for eligible candidates.",
+    "Training is conducted only through BSDM-approved Skill Development Centres (SDCs).",
+    "Aadhaar-based registration is mandatory.",
+    "Each training batch consists of a minimum of 20 and a maximum of 40 candidates.",
+    "Successful candidates receive certification after assessment.",
+    "Placement and self-employment support is provided after successful completion of the training."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who can apply for this scheme?",
+      "answer": "Residents of Bihar belonging to the BC or EBC category who are between 18 and 45 years of age."
+    },
+    {
+      "question": "Is the training free?",
+      "answer": "Yes. The training is provided free of cost."
+    },
+    {
+      "question": "Is Aadhaar mandatory?",
+      "answer": "Yes. Aadhaar-based registration is mandatory."
+    },
+    {
+      "question": "Where is the training conducted?",
+      "answer": "Training is conducted through BSDM-approved Skill Development Centres (SDCs)."
+    },
+    {
+      "question": "Does the scheme provide placement support?",
+      "answer": "Yes. Placement and self-employment support is provided after successful completion of the training."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

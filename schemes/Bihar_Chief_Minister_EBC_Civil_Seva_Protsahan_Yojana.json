@@ -1,0 +1,231 @@
+{
+  "id": 18,
+  "scheme_code": "",
+
+  "scheme_name": "Chief Minister EBC Civil Seva Protsahan Yojana",
+
+  "state": "Bihar",
+
+  "department": "Backward Classes and Extremely Backward Classes Welfare Department",
+
+  "categories": [
+    "Competitive Examination",
+    "Extremely Backward Class",
+    "Education",
+    "Financial Assistance",
+    "Civil Services"
+  ],
+
+  "description": "The Chief Minister EBC Civil Seva Protsahan Yojana is implemented by the Backward Classes and Extremely Backward Classes Welfare Department, Government of Bihar. The scheme provides financial incentives to candidates belonging to the Extremely Backward Class (EBC) category who qualify the preliminary stage of various competitive examinations such as UPSC, BPSC, Bihar Judicial Service, NDA, CDS, Banking, Railway, SSC, and other notified examinations. The financial assistance helps candidates prepare for the mains examination and interview.",
+
+  "objectives": [
+    "Provide financial assistance to EBC candidates preparing for competitive examinations.",
+    "Encourage participation of Extremely Backward Class students in civil services and other competitive examinations.",
+    "Support candidates after qualifying preliminary examinations to continue preparation for higher stages.",
+    "Promote educational and career advancement among the Extremely Backward Class community."
+  ],
+
+  "benefits": [
+    {
+      "title": "UPSC Civil Services",
+      "description": "₹1,00,000 incentive for qualifying the UPSC Civil Services Preliminary Examination."
+    },
+    {
+      "title": "Indian Engineering, Economic & Statistical Services",
+      "description": "₹75,000 incentive for qualifying UPSC Indian Engineering Service, Indian Economic Service, or Indian Statistical Service Preliminary Examination."
+    },
+    {
+      "title": "UPSC/BPSC & Other State Competitive Exams",
+      "description": "₹50,000 incentive for qualifying examinations such as Combined Geo-Scientist, CDS, CAPF, CBI Dy. SP, NDA, BPSC Combined Competitive Examination, Bihar Judicial Service, and State PSC Preliminary Examinations."
+    },
+    {
+      "title": "Banking, RBI, SSC & Railway Exams",
+      "description": "₹30,000 incentive for qualifying RBI Grade-B, SBI/IBPS PO, LIC AAO, SSC CGL, and Railway Recruitment Board Preliminary Examinations."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant must be a permanent resident of Bihar."
+    },
+    {
+      "title": "Community",
+      "description": "The applicant must belong to the Extremely Backward Class (EBC) category."
+    },
+    {
+      "title": "Competitive Examination",
+      "description": "The applicant must have qualified the preliminary examination of an eligible competitive examination."
+    },
+    {
+      "title": "Previous Benefit",
+      "description": "The applicant must not have received the same incentive from any other source."
+    },
+    {
+      "title": "Employment Status",
+      "description": "Applicants employed in any government department, public sector undertaking, or state-funded institution are not eligible."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Online",
+
+    "registration_steps": [
+      {
+        "step": 1,
+        "title": "Visit Portal",
+        "description": "Visit the official website and click on 'New Registration'."
+      },
+      {
+        "step": 2,
+        "title": "Read Guidelines",
+        "description": "Read the registration guidelines carefully and click 'Continue'."
+      },
+      {
+        "step": 3,
+        "title": "Fill Registration Form",
+        "description": "Enter personal details, educational qualifications, and other required information."
+      },
+      {
+        "step": 4,
+        "title": "Upload Documents",
+        "description": "Upload photograph, signature, and other required documents."
+      },
+      {
+        "step": 5,
+        "title": "Submit Registration",
+        "description": "Submit the registration form to receive the Registration ID and Password."
+      }
+    ],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Applicant Login",
+        "description": "Log in using the User ID, Password, and verification code."
+      },
+      {
+        "step": 2,
+        "title": "Fill Application",
+        "description": "Complete the application form with all required information."
+      },
+      {
+        "step": 3,
+        "title": "Verify Details",
+        "description": "Review all entered details before final submission."
+      },
+      {
+        "step": 4,
+        "title": "Submit Application",
+        "description": "Submit the application. An Application ID will be generated after final submission."
+      },
+      {
+        "step": 5,
+        "title": "Print Application",
+        "description": "Download and print the finally submitted application form for future reference."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Applicant Photograph",
+      "mandatory": true,
+      "remarks": "Maximum size 50 KB (Preferred dimensions: 200 × 230 px)."
+    },
+    {
+      "name": "Applicant Signature",
+      "mandatory": true,
+      "remarks": "Maximum size 20 KB (Preferred dimensions: 140 × 60 px)."
+    },
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Identity proof."
+    },
+    {
+      "name": "Admit Card",
+      "mandatory": true,
+      "remarks": "Admit card of the qualifying examination."
+    },
+    {
+      "name": "Proof of Passing Preliminary Examination",
+      "mandatory": true,
+      "remarks": "Result or certificate showing qualification in the preliminary examination."
+    },
+    {
+      "name": "Domicile Certificate",
+      "mandatory": true,
+      "remarks": "Proof of permanent residence in Bihar."
+    },
+    {
+      "name": "Address Proof",
+      "mandatory": true,
+      "remarks": "Valid address proof."
+    },
+    {
+      "name": "Caste Certificate",
+      "mandatory": true,
+      "remarks": "Proof of Extremely Backward Class (EBC) category."
+    },
+    {
+      "name": "Bank Account Details",
+      "mandatory": true,
+      "remarks": "Bank account details for incentive transfer."
+    },
+    {
+      "name": "Additional Supporting Documents",
+      "mandatory": false,
+      "remarks": "Any additional documents required by the department."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The incentive amount varies from ₹30,000 to ₹1,00,000 depending on the competitive examination.",
+    "Only candidates qualifying the preliminary examination are eligible.",
+    "Only one incentive can be availed for the same examination.",
+    "Government employees and employees of state-funded institutions are not eligible.",
+    "Applicants can submit a Request Query through the portal if they face issues during application."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who can apply under this scheme?",
+      "answer": "Permanent residents of Bihar belonging to the Extremely Backward Class (EBC) who have qualified the preliminary stage of eligible competitive examinations."
+    },
+    {
+      "question": "What is the maximum incentive available?",
+      "answer": "The maximum incentive available is ₹1,00,000 for qualifying the UPSC Civil Services Preliminary Examination."
+    },
+    {
+      "question": "Can government employees apply?",
+      "answer": "No. Government employees, PSU employees, and employees of state-funded institutions are not eligible."
+    },
+    {
+      "question": "How is the application submitted?",
+      "answer": "Applications are submitted online through the official portal after registration and login."
+    },
+    {
+      "question": "Can the application be edited after final submission?",
+      "answer": "No. Once the application is finally submitted, modifications are not allowed."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

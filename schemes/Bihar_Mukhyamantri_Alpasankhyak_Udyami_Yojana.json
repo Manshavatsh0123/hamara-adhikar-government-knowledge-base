@@ -1,0 +1,222 @@
+{
+  "id": 9,
+  "scheme_code": "",
+
+  "scheme_name": "Mukhyamantri Alpasankhyak Udyami Yojana",
+
+  "state": "Bihar",
+
+  "department": "Department of Industries",
+
+  "categories": [
+    "Business",
+    "Entrepreneurship",
+    "Minority",
+    "Self Employment",
+    "Youth",
+    "Financial Assistance"
+  ],
+
+  "description": "Mukhyamantri Alpasankhyak Udyami Yojana is a component of the Mukhyamantri Udyami Yojana launched by the Department of Industries, Government of Bihar. The scheme aims to promote entrepreneurship and self-employment among individuals belonging to minority communities by providing financial assistance for establishing and operating new business ventures. It supports economic empowerment through financial aid and entrepreneurship training.",
+
+  "objectives": [
+    "Promote entrepreneurship among minority communities in Bihar.",
+    "Generate self-employment opportunities for eligible youth.",
+    "Provide financial assistance for setting up new business enterprises.",
+    "Enhance entrepreneurial skills through mandatory training programmes.",
+    "Promote economic growth and financial inclusion."
+  ],
+
+  "benefits": [
+    {
+      "title": "Financial Assistance",
+      "description": "Financial assistance of up to ₹10,00,000 is provided for establishing a business."
+    },
+    {
+      "title": "Non-Repayable Grant",
+      "description": "Up to ₹5,00,000 (50% of the project cost) is provided as a non-repayable grant."
+    },
+    {
+      "title": "Interest-Free Loan",
+      "description": "The remaining amount up to ₹5,00,000 is provided as an interest-free loan. Under specific sub-schemes, a nominal interest rate of 1% may apply."
+    },
+    {
+      "title": "Entrepreneurship Training",
+      "description": "Mandatory skill development and entrepreneurship training is provided to beneficiaries."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant must be a permanent resident of Bihar."
+    },
+    {
+      "title": "Community",
+      "description": "The applicant must belong to a recognized Minority community."
+    },
+    {
+      "title": "Educational Qualification",
+      "description": "The applicant must have passed at least 10+2 (Intermediate), ITI, Polytechnic Diploma, or an equivalent qualification."
+    },
+    {
+      "title": "Age Limit",
+      "description": "The applicant must be between 18 and 50 years of age."
+    },
+    {
+      "title": "Business Type",
+      "description": "The proposed business must be established as a proprietorship or partnership firm."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Online",
+
+    "registration_steps": [
+      {
+        "step": 1,
+        "title": "Visit Official Portal",
+        "description": "Visit the official Mukhyamantri Udyami Yojana portal and click on 'Registration/Log in'. Select 'Mukhyamantri Udyami Yojana (MMUY)'."
+      },
+      {
+        "step": 2,
+        "title": "Create Account",
+        "description": "Enter your Aadhaar number and create a password."
+      },
+      {
+        "step": 3,
+        "title": "Login",
+        "description": "Log in using the Aadhaar number and password."
+      },
+      {
+        "step": 4,
+        "title": "Complete Registration",
+        "description": "Fill in the registration form with the required details."
+      },
+      {
+        "step": 5,
+        "title": "Submit Registration",
+        "description": "Submit the registration form successfully."
+      }
+    ],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Login to Dashboard",
+        "description": "Log in to the portal using your Aadhaar number and password."
+      },
+      {
+        "step": 2,
+        "title": "Fill Application Form",
+        "description": "Complete the application form with all required information."
+      },
+      {
+        "step": 3,
+        "title": "Upload Documents",
+        "description": "Upload all the prescribed supporting documents."
+      },
+      {
+        "step": 4,
+        "title": "Review Application",
+        "description": "Verify all information before final submission."
+      },
+      {
+        "step": 5,
+        "title": "Submit Application",
+        "description": "Submit the completed application online."
+      },
+      {
+        "step": 6,
+        "title": "Download Acknowledgement",
+        "description": "Download and print the acknowledgement receipt for future reference."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Matriculation Certificate",
+      "mandatory": true,
+      "remarks": "Should contain the applicant's date of birth."
+    },
+    {
+      "name": "Intermediate / Equivalent Passing Certificate",
+      "mandatory": true,
+      "remarks": "Intermediate, ITI, Polytechnic Diploma, or equivalent qualification certificate."
+    },
+    {
+      "name": "Minority Community Certificate",
+      "mandatory": true,
+      "remarks": "Proof that the applicant belongs to a minority community."
+    },
+    {
+      "name": "Permanent Residence Certificate",
+      "mandatory": true,
+      "remarks": "Proof of permanent residence in Bihar."
+    },
+    {
+      "name": "Disability Certificate",
+      "mandatory": false,
+      "remarks": "Required only if applicable."
+    },
+    {
+      "name": "Passport-size Photograph",
+      "mandatory": true,
+      "remarks": "Recent photograph of the applicant."
+    },
+    {
+      "name": "Applicant's Signature",
+      "mandatory": true,
+      "remarks": "Scanned signature in the prescribed format."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "Women belonging to minority communities may choose either the Mukhyamantri Mahila Udyami Yojana or the Mukhyamantri Alpasankhyak Udyami Yojana.",
+    "Entrepreneurship training is mandatory for selected beneficiaries.",
+    "Applicants under this scheme cannot simultaneously apply for Mukhyamantri Yuva Udyami Yojana, Mukhyamantri Anusoochit Jati/Anusoochit Janajaati Udyami Yojana, or Mukhyamantri Ati Pichhada Varg Udyami Yojana.",
+    "The proposed business must operate as a proprietorship or partnership firm."
+  ],
+
+  "faqs": [
+    {
+      "question": "How much financial assistance is provided under the scheme?",
+      "answer": "Eligible applicants can receive financial assistance of up to ₹10,00,000."
+    },
+    {
+      "question": "How is the financial assistance structured?",
+      "answer": "Up to ₹5,00,000 is provided as a non-repayable grant and up to ₹5,00,000 is provided as an interest-free loan."
+    },
+    {
+      "question": "Who can apply for the scheme?",
+      "answer": "Permanent residents of Bihar belonging to minority communities, aged between 18 and 50 years, who meet the prescribed educational qualifications."
+    },
+    {
+      "question": "Is entrepreneurship training compulsory?",
+      "answer": "Yes. Selected beneficiaries are required to undergo mandatory entrepreneurship training."
+    },
+    {
+      "question": "Can an applicant apply under multiple Udyami schemes?",
+      "answer": "No. Applicants under this scheme are not eligible to apply simultaneously under the other specified Mukhyamantri Udyami schemes."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

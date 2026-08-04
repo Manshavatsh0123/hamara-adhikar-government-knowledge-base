@@ -1,0 +1,243 @@
+{
+  "id": "1",
+  "scheme_code": "",
+
+  "scheme_name": "Niji Talabon Ka Jirnoddhar Ki Yojana",
+
+  "state": "Bihar",
+
+  "department": "Animal and Fisheries Resources Department",
+
+  "categories": [
+    "Fish Farmer",
+    "Pond Development",
+    "Fisheries",
+    "Agriculture",
+    "Subsidy"
+  ],
+
+  "description": "The Niji Talabon Ka Jirnoddhar Ki Yojana is a scheme launched by the Animal and Fisheries Resources Department, Government of Bihar, to renovate private ponds and improve fish productivity. The scheme aims to enhance water holding capacity, increase fish production, and provide financial assistance to private fish farmers. Special focus is given to beneficiaries belonging to Extremely Backward Castes (EBC), Scheduled Castes (SC), and Scheduled Tribes (ST).",
+
+  "objectives": [
+    "Increase the water holding capacity of private ponds.",
+    "Enhance fish productivity and production.",
+    "Provide financial assistance to private fish farmers for pond renovation.",
+    "Promote inclusive development by supporting EBC, SC, and ST beneficiaries."
+  ],
+
+  "benefits": [
+    {
+      "title": "Private Pond Renovation",
+      "description": "Renovation of 150 hectares of private ponds across Bihar under the scheme."
+    },
+    {
+      "title": "Category-wise Coverage",
+      "description": "Other Categories: 86 hectares, Extremely Backward Castes: 27 hectares, Scheduled Castes: 30 hectares, Scheduled Tribes: 7 hectares."
+    },
+    {
+      "title": "Financial Assistance",
+      "description": "Unit cost is ₹6,00,000 per hectare for pond renovation."
+    },
+    {
+      "title": "Subsidy",
+      "description": "30% subsidy for Other Category beneficiaries and 40% subsidy for Extremely Backward Castes, Scheduled Castes, and Scheduled Tribes."
+    },
+    {
+      "title": "Installment-based Payment",
+      "description": "Subsidy is released in two installments based on the completion of renovation work."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Fish Farmer",
+      "description": "The applicant should be a fish farmer."
+    },
+    {
+      "title": "Pond Ownership",
+      "description": "The applicant should own a private pond or be a lessee of a private pond."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Online",
+
+    "registration_steps": [
+      {
+        "step": 1,
+        "title": "Visit the Official Portal",
+        "description": "Visit the official fisheries portal and click on 'Applications are being invited for all the schemes of the financial year (2024-25), click here to apply'."
+      },
+      {
+        "step": 2,
+        "title": "Choose Registration",
+        "description": "Select 'Registration for Fisheries Schemes'."
+      },
+      {
+        "step": 3,
+        "title": "Complete Registration Form",
+        "description": "Select the Individual category and provide personal details including category, caste, name, date of birth, address, and bank details."
+      },
+      {
+        "step": 4,
+        "title": "Mobile Verification",
+        "description": "Enter a valid 10-digit mobile number and request an OTP."
+      },
+      {
+        "step": 5,
+        "title": "OTP Verification",
+        "description": "Enter the OTP received on the registered mobile number."
+      },
+      {
+        "step": 6,
+        "title": "Receive Credentials",
+        "description": "After successful verification, receive the Registration Number and Password."
+      },
+      {
+        "step": 7,
+        "title": "Login",
+        "description": "Log in using the Registration Number and Password."
+      }
+    ],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Login to Portal",
+        "description": "Visit the official portal and log in using the registered credentials."
+      },
+      {
+        "step": 2,
+        "title": "Select Scheme",
+        "description": "Choose the scheme under the 'Matsya Yojana' section."
+      },
+      {
+        "step": 3,
+        "title": "Fill Application Form",
+        "description": "Provide applicant details, permanent address, bank account details, and land/pond information."
+      },
+      {
+        "step": 4,
+        "title": "Upload Documents",
+        "description": "Upload all the required supporting documents."
+      },
+      {
+        "step": 5,
+        "title": "Submit Application",
+        "description": "Submit the online application and print the application form."
+      },
+      {
+        "step": 6,
+        "title": "Submit Hard Copy",
+        "description": "Submit the printed application along with supporting documents, Affidavit Form, and Consent Form to the District Fisheries Office."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Aadhaar Card/Ration Card/Voter ID Card",
+      "mandatory": true,
+      "remarks": "Any one valid identity proof."
+    },
+    {
+      "name": "Passport-size Photographs",
+      "mandatory": true,
+      "remarks": "Two self-attested photographs."
+    },
+    {
+      "name": "Photograph of Proposed Pond",
+      "mandatory": true,
+      "remarks": "The pond photograph should clearly show a distinguishable landmark."
+    },
+    {
+      "name": "Land Ownership Certificate or Lease Agreement",
+      "mandatory": true,
+      "remarks": "Lease should be valid for at least 9 years."
+    },
+    {
+      "name": "Updated Revenue Receipt",
+      "mandatory": true,
+      "remarks": "Latest revenue receipt of the land."
+    },
+    {
+      "name": "Bank Account Details",
+      "mandatory": true,
+      "remarks": "Include account number, branch name, and IFSC code."
+    },
+    {
+      "name": "Caste Certificate",
+      "mandatory": false,
+      "remarks": "Required for EBC, SC, and ST applicants."
+    },
+    {
+      "name": "Affidavit for Non-renovation",
+      "mandatory": true,
+      "remarks": "Declaration that the pond has not been renovated under any government scheme during the last five years."
+    },
+    {
+      "name": "Natural Disaster Affidavit",
+      "mandatory": false,
+      "remarks": "Applicable for ponds damaged due to natural disasters."
+    },
+    {
+      "name": "Lease Agreement on ₹1000 Non-Judicial Stamp",
+      "mandatory": false,
+      "remarks": "Applicable only for leased ponds."
+    },
+    {
+      "name": "Land Map of Pond Area",
+      "mandatory": true,
+      "remarks": "Map showing the pond area."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The scheme includes two pond restoration models: renovation of old private ponds and renovation of government-assisted ponds after five years of construction.",
+    "Old ponds should not have been renovated under any government scheme during the previous five years.",
+    "Subsidy is released in two installments after verification of completed work.",
+    "Applicants must submit a printed application along with supporting documents to the District Fisheries Office.",
+    "Affidavit and Consent Form must also be submitted along with the application."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who can apply for the scheme?",
+      "answer": "Private fish farmers who own or lease private ponds can apply."
+    },
+    {
+      "question": "What is the subsidy amount?",
+      "answer": "30% subsidy for Other Category beneficiaries and 40% subsidy for EBC, SC, and ST beneficiaries."
+    },
+    {
+      "question": "What is the unit cost for pond renovation?",
+      "answer": "The unit cost is ₹6,00,000 per hectare."
+    },
+    {
+      "question": "How is the subsidy released?",
+      "answer": "The subsidy is released in two installments based on completion of the renovation work."
+    },
+    {
+      "question": "Is submission of a printed application mandatory?",
+      "answer": "Yes. After online submission, applicants must submit the printed application and supporting documents to the District Fisheries Office."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

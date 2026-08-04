@@ -1,0 +1,160 @@
+{
+  "id": 17,
+  "scheme_code": "",
+
+  "scheme_name": "Bihar Shatabdi Leper Welfare Scheme",
+
+  "state": "Bihar",
+
+  "department": "Social Welfare Department",
+
+  "categories": [
+    "Social Security",
+    "Financial Assistance",
+    "Leprosy Patient",
+    "Healthcare",
+    "Disability Support"
+  ],
+
+  "description": "The Bihar Shatabdi Leper Welfare Scheme is implemented by the Social Welfare Department, Government of Bihar. The scheme provides monthly financial assistance to leprosy patients suffering from Visible Deformities Grade-II. It is fully funded by the Government of Bihar with the objective of ensuring financial support and social security to eligible beneficiaries.",
+
+  "objectives": [
+    "Provide financial assistance to leprosy patients with Visible Deformities Grade-II.",
+    "Improve the social security and quality of life of affected individuals.",
+    "Support economically vulnerable leprosy patients in Bihar."
+  ],
+
+  "benefits": [
+    {
+      "title": "Monthly Financial Assistance",
+      "description": "Eligible beneficiaries receive financial assistance of ₹1,500 per month."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant must be a resident of Bihar."
+    },
+    {
+      "title": "Medical Condition",
+      "description": "The applicant must be a leprosy patient diagnosed with Visible Deformities Grade-II."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Offline",
+
+    "registration_steps": [],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Obtain Application Form",
+        "description": "Collect the prescribed application form from the concerned Block Office."
+      },
+      {
+        "step": 2,
+        "title": "Fill the Application",
+        "description": "Complete the application form and attach all the required supporting documents."
+      },
+      {
+        "step": 3,
+        "title": "Submit Application",
+        "description": "Submit the completed application at the respective Block Office."
+      },
+      {
+        "step": 4,
+        "title": "Verification and Approval",
+        "description": "The Block Development Officer verifies the application and approves eligible cases."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Identity proof of the applicant."
+    },
+    {
+      "name": "Passport-size Photograph",
+      "mandatory": true,
+      "remarks": "Recent passport-size photograph."
+    },
+    {
+      "name": "Identity Proof",
+      "mandatory": true,
+      "remarks": "Voter ID Card, Driving Licence, or any valid government-issued identity proof."
+    },
+    {
+      "name": "Medical Reports / Grade-II Visible Deformities Certificate",
+      "mandatory": true,
+      "remarks": "Medical documents confirming Visible Deformities Grade-II due to leprosy."
+    },
+    {
+      "name": "Address Proof",
+      "mandatory": true,
+      "remarks": "Proof of residence in Bihar."
+    },
+    {
+      "name": "Bank Passbook / Bank Account Details",
+      "mandatory": true,
+      "remarks": "Required for receiving financial assistance."
+    },
+    {
+      "name": "Other Supporting Documents",
+      "mandatory": false,
+      "remarks": "Any additional documents required by the concerned authority."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The scheme is fully funded by the Government of Bihar.",
+    "Only leprosy patients with Visible Deformities Grade-II are eligible.",
+    "Applications are submitted offline at the concerned Block Office.",
+    "Applications are approved by the Block Development Officer (BDO).",
+    "Grievances can be submitted through the designated Social Welfare Department authorities under the Bihar Public Grievance Redressal Rights Act, 2016."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who can apply for the Bihar Shatabdi Leper Welfare Scheme?",
+      "answer": "Residents of Bihar diagnosed with leprosy and having Visible Deformities Grade-II."
+    },
+    {
+      "question": "How much financial assistance is provided?",
+      "answer": "Eligible beneficiaries receive ₹1,500 per month."
+    },
+    {
+      "question": "How can I apply for the scheme?",
+      "answer": "Applications must be submitted offline at the concerned Block Office in the prescribed format."
+    },
+    {
+      "question": "Who approves the application?",
+      "answer": "The Block Development Officer (BDO) approves eligible applications."
+    },
+    {
+      "question": "Which documents are required?",
+      "answer": "Aadhaar Card, passport-size photograph, identity proof, medical certificate showing Visible Deformities Grade-II, address proof, bank passbook, and other supporting documents if required."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

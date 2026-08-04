@@ -1,0 +1,197 @@
+{
+  "id": 15,
+  "scheme_code": "",
+
+  "scheme_name": "Indira Gandhi National Disability Pension Scheme",
+
+  "state": "Bihar",
+
+  "department": "Social Welfare Department",
+
+  "categories": [
+    "Pension",
+    "Disability",
+    "Social Security",
+    "BPL",
+    "Financial Assistance"
+  ],
+
+  "description": "The Indira Gandhi National Disability Pension Scheme (IGNDPS) was introduced in Bihar during 2009-10 under the National Social Assistance Programme (NSAP). Implemented by the Social Welfare Department, Government of Bihar, the scheme provides monthly financial assistance to persons with disabilities belonging to Below Poverty Line (BPL) families. It aims to ensure social security and financial support for eligible beneficiaries aged 18 to 79 years. The scheme is centrally sponsored and pension is disbursed through Direct Benefit Transfer (DBT).",
+
+  "objectives": [
+    "Provide social security to persons with disabilities from Below Poverty Line (BPL) families.",
+    "Offer monthly financial assistance for basic living expenses.",
+    "Improve the financial well-being and dignity of persons with disabilities.",
+    "Ensure transparent pension disbursement through Direct Benefit Transfer (DBT)."
+  ],
+
+  "benefits": [
+    {
+      "title": "Monthly Pension",
+      "description": "Eligible beneficiaries receive a monthly pension of ₹400."
+    },
+    {
+      "title": "Direct Benefit Transfer (DBT)",
+      "description": "The pension amount is transferred directly to the beneficiary's bank account through the Public Financial Management System (PFMS)."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant must be a resident of Bihar."
+    },
+    {
+      "title": "Disability",
+      "description": "The applicant must be a person with disabilities having at least 80% disability."
+    },
+    {
+      "title": "Age",
+      "description": "The applicant must be between 18 and 79 years of age."
+    },
+    {
+      "title": "Economic Status",
+      "description": "The applicant must belong to a Below Poverty Line (BPL) family."
+    },
+    {
+      "title": "Other Pension",
+      "description": "The applicant should not be receiving pension benefits under any other social security scheme."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Offline",
+
+    "registration_steps": [],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Submit Application",
+        "description": "Submit the duly filled application form along with the required documents at the Right to Public Service (RTPS) counter at the concerned Block Office."
+      },
+      {
+        "step": 2,
+        "title": "Receive Acknowledgement",
+        "description": "Collect the acknowledgement receipt issued by the RTPS counter for future reference."
+      },
+      {
+        "step": 3,
+        "title": "Application Verification",
+        "description": "The concerned authorities verify the application and supporting documents."
+      },
+      {
+        "step": 4,
+        "title": "Approval Notification",
+        "description": "Applicants receive approval or rejection information through SMS or email."
+      },
+      {
+        "step": 5,
+        "title": "Collect Sanction Order",
+        "description": "If approved, collect the sanction order from the RTPS counter by producing the acknowledgement receipt and valid identity proof."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Identity proof of the applicant."
+    },
+    {
+      "name": "Passport-size Photograph",
+      "mandatory": true,
+      "remarks": "Recent passport-size photograph."
+    },
+    {
+      "name": "Identity Proof",
+      "mandatory": true,
+      "remarks": "Voter ID Card, Driving Licence, or any other valid government-issued identity proof."
+    },
+    {
+      "name": "Disability Certificate",
+      "mandatory": true,
+      "remarks": "Certificate showing at least 80% disability."
+    },
+    {
+      "name": "Age Proof",
+      "mandatory": true,
+      "remarks": "Birth certificate, Aadhaar, or any valid age proof."
+    },
+    {
+      "name": "BPL Card / Ration Card",
+      "mandatory": true,
+      "remarks": "Proof of Below Poverty Line (BPL) status."
+    },
+    {
+      "name": "Caste Certificate",
+      "mandatory": false,
+      "remarks": "Required if applicable."
+    },
+    {
+      "name": "Address Proof",
+      "mandatory": true,
+      "remarks": "Proof of residence in Bihar."
+    },
+    {
+      "name": "Bank Passbook / Bank Account Details",
+      "mandatory": true,
+      "remarks": "Required for Direct Benefit Transfer (DBT)."
+    },
+    {
+      "name": "Other Supporting Documents",
+      "mandatory": false,
+      "remarks": "Any additional documents required by the concerned authority."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "18003456262",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The scheme is implemented under the National Social Assistance Programme (NSAP).",
+    "Only persons with disabilities having 80% or more disability are eligible.",
+    "The pension amount is transferred through Direct Benefit Transfer (DBT) using PFMS.",
+    "Applicants receiving pension under any other social security scheme are not eligible.",
+    "Grievances can be registered through the SSPMIS portal, RTPS offices, or by calling the toll-free helpline 18003456262."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who can apply for the Indira Gandhi National Disability Pension Scheme?",
+      "answer": "Residents of Bihar aged 18 to 79 years with at least 80% disability belonging to BPL families and not receiving any other social security pension."
+    },
+    {
+      "question": "How much pension is provided?",
+      "answer": "Eligible beneficiaries receive a monthly pension of ₹400."
+    },
+    {
+      "question": "How is the pension paid?",
+      "answer": "The pension is transferred directly to the beneficiary's bank account through Direct Benefit Transfer (DBT) using PFMS."
+    },
+    {
+      "question": "Where should the application be submitted?",
+      "answer": "Applications should be submitted offline at the RTPS counter located at the concerned Block Office."
+    },
+    {
+      "question": "How can beneficiaries register grievances?",
+      "answer": "Beneficiaries can register grievances through the SSPMIS portal, visit the concerned offices, or call the toll-free helpline 18003456262."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

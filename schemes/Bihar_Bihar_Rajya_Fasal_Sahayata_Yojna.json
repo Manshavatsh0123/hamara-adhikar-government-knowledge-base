@@ -1,0 +1,170 @@
+{
+  "id": 13,
+  "scheme_code": "",
+
+  "scheme_name": "Bihar Rajya Fasal Sahayata Yojna",
+
+  "state": "Bihar",
+
+  "department": "Department of Agriculture",
+
+  "categories": [
+    "Agriculture",
+    "Crop Assistance",
+    "Farmer Welfare",
+    "Financial Assistance",
+    "Natural Disaster"
+  ],
+
+  "description": "Bihar Rajya Fasal Sahayata Yojna is a crop assistance scheme launched by the Government of Bihar to provide financial support to farmers whose crops are damaged due to natural calamities such as floods, drought, and other adverse weather conditions. The scheme compensates eligible farmers based on the percentage of crop yield loss and covers notified crops across the state.",
+
+  "objectives": [
+    "Provide financial assistance to farmers affected by natural disasters.",
+    "Reduce financial losses caused by crop damage.",
+    "Support agricultural sustainability in Bihar.",
+    "Protect the livelihood of farmers through crop assistance."
+  ],
+
+  "benefits": [
+    {
+      "title": "20% Yield Loss Assistance",
+      "description": "If the actual crop yield decreases by up to 20% compared to the threshold yield, assistance of ₹7,500 per hectare is provided, subject to a maximum of ₹15,000 for up to two hectares."
+    },
+    {
+      "title": "More than 20% Yield Loss Assistance",
+      "description": "If the actual crop yield decreases by more than 20% compared to the threshold yield, assistance of ₹10,000 per hectare is provided, subject to a maximum of ₹20,000 for up to two hectares."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Own Land Farmers",
+      "description": "Farmers cultivating their own agricultural land are eligible."
+    },
+    {
+      "title": "Tenant Farmers",
+      "description": "Farmers cultivating land belonging to others are eligible."
+    },
+    {
+      "title": "Mixed Cultivation",
+      "description": "Farmers cultivating both their own land and leased/others' land are also eligible."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Online",
+
+    "registration_steps": [
+      {
+        "step": 1,
+        "title": "Farmer Registration",
+        "description": "If not already registered, complete farmer registration on the Bihar DBT Agriculture Portal."
+      },
+      {
+        "step": 2,
+        "title": "Obtain Registration Number",
+        "description": "After registration, search or retrieve the Farmer Registration Number from the designated portal."
+      }
+    ],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Login",
+        "description": "Log in to the official Bihar Rajya Fasal Sahayata Yojna portal using the farmer registration details."
+      },
+      {
+        "step": 2,
+        "title": "Open Application Form",
+        "description": "Access the online application form."
+      },
+      {
+        "step": 3,
+        "title": "Fill Application",
+        "description": "Enter all the required crop and farmer details."
+      },
+      {
+        "step": 4,
+        "title": "Submit Application",
+        "description": "Review the application and submit it online."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Farmer Registration Number",
+      "mandatory": true,
+      "remarks": "Registration on the Bihar DBT Agriculture Portal is mandatory."
+    },
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Identity proof of the farmer."
+    },
+    {
+      "name": "Land Details",
+      "mandatory": true,
+      "remarks": "Ownership or cultivation details of agricultural land."
+    },
+    {
+      "name": "Bank Account Details",
+      "mandatory": true,
+      "remarks": "Required for Direct Benefit Transfer (DBT)."
+    },
+    {
+      "name": "Crop Details",
+      "mandatory": true,
+      "remarks": "Details of the notified crop cultivated by the applicant."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "The scheme covers crop losses caused by floods, drought, and other natural calamities.",
+    "Financial assistance is calculated based on the percentage of crop yield loss.",
+    "Maximum assistance is limited to two hectares of agricultural land.",
+    "Farmer registration on the Bihar DBT Agriculture Portal is mandatory before applying.",
+    "The scheme covers notified crops including Aghani Paddy, Bhadai Maize, and Soybean in notified areas."
+  ],
+
+  "faqs": [
+    {
+      "question": "Who can apply for Bihar Rajya Fasal Sahayata Yojna?",
+      "answer": "Farmers cultivating their own land, leased land, or both are eligible under the scheme."
+    },
+    {
+      "question": "What is the maximum financial assistance available?",
+      "answer": "Eligible farmers can receive up to ₹20,000 for crop losses exceeding 20%, subject to a maximum area of two hectares."
+    },
+    {
+      "question": "Is farmer registration mandatory?",
+      "answer": "Yes. Registration on the Bihar DBT Agriculture Portal is mandatory before applying."
+    },
+    {
+      "question": "Which crops are covered under the scheme?",
+      "answer": "Notified crops include Aghani Paddy, Bhadai Maize, and Soybean in specified districts and notified areas."
+    },
+    {
+      "question": "How is the assistance amount calculated?",
+      "answer": "The assistance amount is determined based on the percentage reduction in actual crop yield compared to the threshold yield."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": 12,
+  "scheme_code": "",
+
+  "scheme_name": "Mukhyamantri Atyant Pichhda Varg Medhavriti Yojana",
+
+  "state": "Bihar",
+
+  "department": "Backward and Extremely Backward Class Welfare Department",
+
+  "categories": [
+    "Education",
+    "Scholarship",
+    "Extremely Backward Class",
+    "Financial Assistance",
+    "Matric",
+    "Student"
+  ],
+
+  "description": "Mukhyamantri Atyant Pichhda Varg Medhavriti Yojana is a scholarship scheme launched by the Backward and Extremely Backward Class Welfare Department, Government of Bihar. The scheme encourages academic excellence among students belonging to the Extremely Backward Class (BC-I) by providing a one-time financial incentive to those who pass the Bihar School Examination Board (BSEB) Matric examination with first division.",
+
+  "objectives": [
+    "Encourage academic excellence among Extremely Backward Class students.",
+    "Promote higher education after successful completion of the Matric examination.",
+    "Provide financial assistance to meritorious students.",
+    "Reduce financial barriers to further education."
+  ],
+
+  "benefits": [
+    {
+      "title": "One-Time Scholarship",
+      "description": "A one-time scholarship of ₹10,000 is provided to each eligible student."
+    },
+    {
+      "title": "Direct Benefit Transfer",
+      "description": "The scholarship amount is transferred directly to the beneficiary's bank account through Direct Benefit Transfer (DBT)."
+    }
+  ],
+
+  "eligibility": [
+    {
+      "title": "Residence",
+      "description": "The applicant must be a permanent resident of Bihar."
+    },
+    {
+      "title": "Student",
+      "description": "The applicant must be a student."
+    },
+    {
+      "title": "Category",
+      "description": "The applicant must belong to the Extremely Backward Class (BC-I) category."
+    },
+    {
+      "title": "Educational Qualification",
+      "description": "The applicant must have passed the Class 10 (Matric) examination in First Division from the Bihar School Examination Board (BSEB), Patna."
+    }
+  ],
+
+  "application_process": {
+    "mode": "Offline",
+
+    "registration_steps": [],
+
+    "application_steps": [
+      {
+        "step": 1,
+        "title": "Contact School",
+        "description": "Eligible students should contact their respective schools and ensure that all required documents are available."
+      },
+      {
+        "step": 2,
+        "title": "Submission of Eligible List",
+        "description": "The Bihar School Examination Board submits the list of eligible students to the Education Department."
+      },
+      {
+        "step": 3,
+        "title": "Verification",
+        "description": "The concerned authorities verify the student's identity and submitted documents."
+      },
+      {
+        "step": 4,
+        "title": "Approval",
+        "description": "The authorized officer of the Education Department approves the scholarship for disbursement."
+      },
+      {
+        "step": 5,
+        "title": "DBT Payment",
+        "description": "The scholarship amount is transferred directly to the beneficiary's bank account through DBT."
+      }
+    ]
+  },
+
+  "documents_required": [
+    {
+      "name": "Caste Certificate",
+      "mandatory": true,
+      "remarks": "Proof of Extremely Backward Class (BC-I) category."
+    },
+    {
+      "name": "Residence Certificate",
+      "mandatory": true,
+      "remarks": "Proof of permanent residence in Bihar."
+    },
+    {
+      "name": "Aadhaar Card",
+      "mandatory": true,
+      "remarks": "Identity proof of the student."
+    },
+    {
+      "name": "Matric Mark Sheet",
+      "mandatory": true,
+      "remarks": "Proof of passing Class 10 in First Division from BSEB."
+    },
+    {
+      "name": "Bank Passbook / Bank Account Details",
+      "mandatory": true,
+      "remarks": "Required for Direct Benefit Transfer (DBT)."
+    },
+    {
+      "name": "Other Supporting Documents",
+      "mandatory": false,
+      "remarks": "Any additional documents required by the concerned authorities."
+    }
+  ],
+
+  "official_source": {
+    "website": "",
+    "apply_link": "",
+    "status_link": "",
+    "download_link": "",
+    "helpline": "",
+    "email": ""
+  },
+
+  "important_notes": [
+    "Only students who secure First Division in the Bihar School Examination Board (BSEB) Matric examination are eligible.",
+    "The scholarship is provided only once per eligible student.",
+    "Scholarship amount is transferred through Direct Benefit Transfer (DBT).",
+    "The list of eligible students is forwarded by the Bihar School Examination Board to the Education Department.",
+    "Students should ensure that all required documents are available with their respective schools."
+  ],
+
+  "faqs": [
+    {
+      "question": "How much scholarship is provided under the scheme?",
+      "answer": "Eligible students receive a one-time scholarship of ₹10,000."
+    },
+    {
+      "question": "Who is eligible for this scholarship?",
+      "answer": "Permanent residents of Bihar belonging to the Extremely Backward Class (BC-I) who have passed the BSEB Matric examination with First Division."
+    },
+    {
+      "question": "How is the scholarship amount paid?",
+      "answer": "The scholarship amount is transferred directly to the beneficiary's bank account through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "Is an online application required?",
+      "answer": "No. The process is handled offline through the student's school, the Bihar School Examination Board, and the Education Department."
+    },
+    {
+      "question": "Which documents are required?",
+      "answer": "Caste Certificate, Residence Certificate, Aadhaar Card, Matric Mark Sheet, Bank Passbook/Bank Account Details, and any other required documents."
+    }
+  ],
+
+  "metadata": {
+    "language": "en",
+    "status": "active",
+    "last_verified": "",
+    "created_at": "",
+    "updated_at": "",
+    "version": "1.0.0"
+  }
+}

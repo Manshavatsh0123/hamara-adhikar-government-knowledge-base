@@ -115,7 +115,6 @@ This repository is responsible only for everything above PostgreSQL.
 hamara-adhikar-knowledge-base/
 
 ├── README.md
-├── LICENSE
 ├── package.json
 ├── package-lock.json
 │
